@@ -1,6 +1,6 @@
 # calcvi-data
 
-Static data repository for [CalcVI 2.0](https://github.com/nascimentolwtn/calcvi2) — Calculadora de Valor Intrínseco.
+Static data repository for CalcVI 2.0 — Calculadora de Valor Intrínseco App.
 
 Serves a monthly JSON snapshot of the most discounted IBOVESPA stocks ranked by intrinsic value (Benjamin Graham BG formula and Felipe Lacerda FL formula). Consumed by the CalcVI app on startup to pre-populate the ranked list without requiring a live API call.
 

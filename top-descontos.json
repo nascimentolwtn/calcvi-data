@@ -1,5 +1,127 @@
 {
-  "updatedAt": null,
-  "bg": [],
-  "fl": []
+  "atualizadoEm": "2026-06-23 23:53",
+  "topBG": [
+    {
+      "codigo": "FICT3",
+      "cotacao": 0.24,
+      "fundamentusVI": 4.808242922315802,
+      "descontoFundamentus": 95.00857165751499
+    },
+    {
+      "codigo": "LIGT3",
+      "cotacao": 2.97,
+      "fundamentusVI": 30.904332220580336,
+      "descontoFundamentus": 90.38969689167992
+    },
+    {
+      "codigo": "AMER3",
+      "cotacao": 4.29,
+      "fundamentusVI": 36.18188116999999,
+      "descontoFundamentus": 88.14323672159692
+    },
+    {
+      "codigo": "ALLD3",
+      "cotacao": 4.86,
+      "fundamentusVI": 35.4933314159153,
+      "descontoFundamentus": 86.3072870138621
+    },
+    {
+      "codigo": "BSLI3",
+      "cotacao": 3.08,
+      "fundamentusVI": 19.300471496831367,
+      "descontoFundamentus": 84.04184063324226
+    },
+    {
+      "codigo": "BSLI4",
+      "cotacao": 3.25,
+      "fundamentusVI": 19.300471496831367,
+      "descontoFundamentus": 83.16103313572643
+    },
+    {
+      "codigo": "VTRU3",
+      "cotacao": 13.37,
+      "fundamentusVI": 69.46480403772834,
+      "descontoFundamentus": 80.75284284579804
+    },
+    {
+      "codigo": "MNPR3",
+      "cotacao": 3.94,
+      "fundamentusVI": 19.25407619180936,
+      "descontoFundamentus": 79.5368006195173
+    },
+    {
+      "codigo": "IGTI3",
+      "cotacao": 3.32,
+      "fundamentusVI": 14.656159114856798,
+      "descontoFundamentus": 77.34740750300296
+    },
+    {
+      "codigo": "HBRE3",
+      "cotacao": 2.54,
+      "fundamentusVI": 10.709642851187896,
+      "descontoFundamentus": 76.28305597774188
+    }
+  ],
+  "topFL": [
+    {
+      "codigo": "GFSA3",
+      "cotacao": 1.33,
+      "novoVI": 62.544,
+      "descontoNovo": 97.87349705807112
+    },
+    {
+      "codigo": "HAPV3",
+      "cotacao": 10.28,
+      "novoVI": 101.36,
+      "descontoNovo": 89.8579321231255
+    },
+    {
+      "codigo": "LIGT3",
+      "cotacao": 2.97,
+      "novoVI": 22.341,
+      "descontoNovo": 86.70605612998523
+    },
+    {
+      "codigo": "TOKY3",
+      "cotacao": 0.28,
+      "novoVI": 2.044,
+      "descontoNovo": 86.3013698630137
+    },
+    {
+      "codigo": "HBRE3",
+      "cotacao": 2.54,
+      "novoVI": 17.578,
+      "descontoNovo": 85.55011946751621
+    },
+    {
+      "codigo": "SAPR4",
+      "cotacao": 7.45,
+      "novoVI": 42.021,
+      "descontoNovo": 82.27076937721614
+    },
+    {
+      "codigo": "FICT3",
+      "cotacao": 0.24,
+      "novoVI": 1.352,
+      "descontoNovo": 82.24852071005917
+    },
+    {
+      "codigo": "AMER3",
+      "cotacao": 4.29,
+      "novoVI": 22.123,
+      "descontoNovo": 80.60841658002984
+    },
+    {
+      "codigo": "VVEO3",
+      "cotacao": 1.22,
+      "novoVI": 6.134,
+      "descontoNovo": 80.11085751548745
+    },
+    {
+      "codigo": "IGTI3",
+      "cotacao": 3.32,
+      "novoVI": 16.46,
+      "descontoNovo": 79.82989064398542
+    }
+  ]
 }
