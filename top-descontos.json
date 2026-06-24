@@ -1,127 +1,147 @@
 {
-  "atualizadoEm": "2026-06-24 02:38",
+  "atualizadoEm": "2026-06-24 18:15",
   "topBG": [
     {
       "codigo": "FICT3",
-      "cotacao": 0.24,
+      "nome": "Fictor Alimentos S.A.",
+      "cotacao": 0.22,
       "fundamentusVI": 4.808242922315802,
-      "descontoFundamentus": 95.00857165751499
+      "descontoFundamentus": 95.42452401938876
     },
     {
       "codigo": "LIGT3",
-      "cotacao": 2.97,
+      "nome": "Light S.A.",
+      "cotacao": 3.0,
       "fundamentusVI": 30.904332220580336,
-      "descontoFundamentus": 90.38969689167992
+      "descontoFundamentus": 90.29262312290899
     },
     {
       "codigo": "AMER3",
-      "cotacao": 4.29,
+      "nome": "Americanas S.A.",
+      "cotacao": 4.28,
       "fundamentusVI": 36.18188116999999,
-      "descontoFundamentus": 88.14323672159692
+      "descontoFundamentus": 88.17087486443701
     },
     {
       "codigo": "ALLD3",
-      "cotacao": 4.86,
+      "nome": "Allied Tecnologia S.A.",
+      "cotacao": 4.83,
       "fundamentusVI": 35.4933314159153,
-      "descontoFundamentus": 86.3072870138621
+      "descontoFundamentus": 86.39180993352961
     },
     {
       "codigo": "BSLI3",
-      "cotacao": 3.08,
+      "nome": "BRB - Banco de Brasília S.A.",
+      "cotacao": 3.04,
       "fundamentusVI": 19.300471496831367,
-      "descontoFundamentus": 84.04184063324226
+      "descontoFundamentus": 84.24908945618719
     },
     {
       "codigo": "BSLI4",
-      "cotacao": 3.25,
+      "nome": "BRB - Banco de Brasília S.A.",
+      "cotacao": 3.2,
       "fundamentusVI": 19.300471496831367,
-      "descontoFundamentus": 83.16103313572643
+      "descontoFundamentus": 83.42009416440757
     },
     {
       "codigo": "VTRU3",
-      "cotacao": 13.37,
+      "nome": "Vitru Educação S.A.",
+      "cotacao": 13.3,
       "fundamentusVI": 69.46480403772834,
-      "descontoFundamentus": 80.75284284579804
+      "descontoFundamentus": 80.85361330210277
     },
     {
       "codigo": "MNPR3",
-      "cotacao": 3.94,
+      "nome": "Minupar Participações S.A.",
+      "cotacao": 3.95,
       "fundamentusVI": 19.25407619180936,
-      "descontoFundamentus": 79.5368006195173
+      "descontoFundamentus": 79.48486356525211
     },
     {
       "codigo": "IGTI3",
-      "cotacao": 3.32,
+      "nome": "Iguatemi S.A.",
+      "cotacao": 3.33,
       "fundamentusVI": 14.656159114856798,
-      "descontoFundamentus": 77.34740750300296
+      "descontoFundamentus": 77.2791768027108
     },
     {
-      "codigo": "HBRE3",
-      "cotacao": 2.54,
-      "fundamentusVI": 10.709642851187896,
-      "descontoFundamentus": 76.28305597774188
+      "codigo": "ETER3",
+      "nome": "Eternit S.A.",
+      "cotacao": 3.6,
+      "fundamentusVI": 15.26446608958204,
+      "descontoFundamentus": 76.415814487891
     }
   ],
   "topFL": [
     {
       "codigo": "GFSA3",
-      "cotacao": 1.33,
+      "nome": "Gafisa S.A.",
+      "cotacao": 1.27,
       "novoVI": 62.544,
-      "descontoNovo": 97.87349705807112
+      "descontoNovo": 97.96942952161677
     },
     {
       "codigo": "HAPV3",
-      "cotacao": 10.28,
+      "nome": "Hapvida Participações e Investimentos S.A.",
+      "cotacao": 10.17,
       "novoVI": 101.36,
-      "descontoNovo": 89.8579321231255
+      "descontoNovo": 89.96645619573796
     },
     {
       "codigo": "LIGT3",
-      "cotacao": 2.97,
+      "nome": "Light S.A.",
+      "cotacao": 3.0,
       "novoVI": 22.341,
-      "descontoNovo": 86.70605612998523
+      "descontoNovo": 86.57177386867195
     },
     {
       "codigo": "TOKY3",
+      "nome": "GRUPO TOKY  ON      NM",
       "cotacao": 0.28,
       "novoVI": 2.044,
       "descontoNovo": 86.3013698630137
     },
     {
       "codigo": "HBRE3",
-      "cotacao": 2.54,
+      "nome": "HBR Realty Empreendimentos Imobiliários S.A.",
+      "cotacao": 2.59,
       "novoVI": 17.578,
-      "descontoNovo": 85.55011946751621
-    },
-    {
-      "codigo": "SAPR4",
-      "cotacao": 7.45,
-      "novoVI": 42.021,
-      "descontoNovo": 82.27076937721614
+      "descontoNovo": 85.26567300034134
     },
     {
       "codigo": "FICT3",
-      "cotacao": 0.24,
+      "nome": "Fictor Alimentos S.A.",
+      "cotacao": 0.22,
       "novoVI": 1.352,
-      "descontoNovo": 82.24852071005917
+      "descontoNovo": 83.72781065088758
+    },
+    {
+      "codigo": "SAPR4",
+      "nome": "Companhia de Saneamento do Paraná - SANEPAR",
+      "cotacao": 7.17,
+      "novoVI": 42.021,
+      "descontoNovo": 82.93710287713286
+    },
+    {
+      "codigo": "WEST3",
+      "nome": "Westwing Comércio Varejista S.A.",
+      "cotacao": 3.41,
+      "novoVI": 19.758,
+      "descontoNovo": 82.74116813442656
     },
     {
       "codigo": "AMER3",
-      "cotacao": 4.29,
+      "nome": "Americanas S.A.",
+      "cotacao": 4.28,
       "novoVI": 22.123,
-      "descontoNovo": 80.60841658002984
+      "descontoNovo": 80.6536184061836
     },
     {
       "codigo": "VVEO3",
+      "nome": "CM Hospitalar S/A",
       "cotacao": 1.22,
       "novoVI": 6.134,
       "descontoNovo": 80.11085751548745
-    },
-    {
-      "codigo": "IGTI3",
-      "cotacao": 3.32,
-      "novoVI": 16.46,
-      "descontoNovo": 79.82989064398542
     }
   ]
 }
