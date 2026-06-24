@@ -1,0 +1,767 @@
+{
+  "atualizadoEm": "2026-06-24 02:38",
+  "stocks": [
+    {
+      "codigo": "ABEV3",
+      "cotacao": 16.37,
+      "lpa": 0.99,
+      "vpa": 5.779
+    },
+    {
+      "codigo": "ALOS3",
+      "cotacao": 26.94,
+      "lpa": 1.65,
+      "vpa": 25.972
+    },
+    {
+      "codigo": "AMBP3",
+      "cotacao": 0.18,
+      "lpa": -0.06,
+      "vpa": 0.656
+    },
+    {
+      "codigo": "ANIM3",
+      "cotacao": 2.58,
+      "lpa": 0.36,
+      "vpa": 6.322
+    },
+    {
+      "codigo": "ARML3",
+      "cotacao": 2.88,
+      "lpa": 0.14,
+      "vpa": 3.688
+    },
+    {
+      "codigo": "ASAI3",
+      "cotacao": 7.94,
+      "lpa": 0.68,
+      "vpa": 4.388
+    },
+    {
+      "codigo": "AURE3",
+      "cotacao": 11.36,
+      "lpa": -1.24,
+      "vpa": 11.402
+    },
+    {
+      "codigo": "AXIA3",
+      "cotacao": 54.22,
+      "lpa": 4.4,
+      "vpa": 42.66
+    },
+    {
+      "codigo": "AZEV4",
+      "cotacao": 0.09,
+      "lpa": -1.03,
+      "vpa": 0.19
+    },
+    {
+      "codigo": "AZTE3",
+      "cotacao": 0.16,
+      "lpa": -0.02,
+      "vpa": 0.724
+    },
+    {
+      "codigo": "AZZA3",
+      "cotacao": 20.1,
+      "lpa": 4.05,
+      "vpa": 39.634
+    },
+    {
+      "codigo": "B3SA3",
+      "cotacao": 14.72,
+      "lpa": 0.92,
+      "vpa": 3.643
+    },
+    {
+      "codigo": "BBAS3",
+      "cotacao": 19.86,
+      "lpa": 2.22,
+      "vpa": 32.546
+    },
+    {
+      "codigo": "BBDC3",
+      "cotacao": 15.54,
+      "lpa": 2.1,
+      "vpa": 17.006
+    },
+    {
+      "codigo": "BBDC4",
+      "cotacao": 17.84,
+      "lpa": 2.1,
+      "vpa": 17.006
+    },
+    {
+      "codigo": "BBSE3",
+      "cotacao": 38.27,
+      "lpa": 4.74,
+      "vpa": 6.512
+    },
+    {
+      "codigo": "BEEF3",
+      "cotacao": 3.57,
+      "lpa": 0.47,
+      "vpa": 1.276
+    },
+    {
+      "codigo": "BHIA3",
+      "cotacao": 1.13,
+      "lpa": -6.18,
+      "vpa": 2.719
+    },
+    {
+      "codigo": "BPAC11",
+      "cotacao": 52.8,
+      "lpa": 0.614,
+      "vpa": 15.456
+    },
+    {
+      "codigo": "BRAP4",
+      "cotacao": 22.62,
+      "lpa": 1.87,
+      "vpa": 19.455
+    },
+    {
+      "codigo": "BRAV3",
+      "cotacao": 18.97,
+      "lpa": 0.49,
+      "vpa": 24.562
+    },
+    {
+      "codigo": "BRKM5",
+      "cotacao": 7.6,
+      "lpa": -11.45,
+      "vpa": -19.745
+    },
+    {
+      "codigo": "BRSR6",
+      "cotacao": 13.55,
+      "lpa": 4.31,
+      "vpa": 28.025
+    },
+    {
+      "codigo": "CBAV3",
+      "cotacao": 10.72,
+      "lpa": 0.19,
+      "vpa": 7.112
+    },
+    {
+      "codigo": "CEAB3",
+      "cotacao": 9.81,
+      "lpa": 1.88,
+      "vpa": 12.246
+    },
+    {
+      "codigo": "CMIG4",
+      "cotacao": 10.99,
+      "lpa": 1.71,
+      "vpa": 10.098
+    },
+    {
+      "codigo": "CMIN3",
+      "cotacao": 4.28,
+      "lpa": 0.41,
+      "vpa": 1.23
+    },
+    {
+      "codigo": "COGN3",
+      "cotacao": 2.29,
+      "lpa": 0.34,
+      "vpa": 6.742
+    },
+    {
+      "codigo": "CPFE3",
+      "cotacao": 44.12,
+      "lpa": 5.0,
+      "vpa": 21.087
+    },
+    {
+      "codigo": "CPLE3",
+      "cotacao": 14.99,
+      "lpa": 0.91,
+      "vpa": 8.024
+    },
+    {
+      "codigo": "CSAN3",
+      "cotacao": 3.75,
+      "lpa": -3.34,
+      "vpa": 0.892
+    },
+    {
+      "codigo": "CSMG3",
+      "cotacao": 58.85,
+      "lpa": 3.57,
+      "vpa": 23.126
+    },
+    {
+      "codigo": "CSNA3",
+      "cotacao": 5.27,
+      "lpa": -1.51,
+      "vpa": 9.69
+    },
+    {
+      "codigo": "CURY3",
+      "cotacao": 34.33,
+      "lpa": 3.58,
+      "vpa": 5.014
+    },
+    {
+      "codigo": "CVCB3",
+      "cotacao": 1.32,
+      "lpa": -0.2,
+      "vpa": 0.771
+    },
+    {
+      "codigo": "CXSE3",
+      "cotacao": 19.43,
+      "lpa": 1.46,
+      "vpa": 4.591
+    },
+    {
+      "codigo": "CYRE3",
+      "cotacao": 21.6,
+      "lpa": 4.5,
+      "vpa": 24.374
+    },
+    {
+      "codigo": "DIRR3",
+      "cotacao": 13.8,
+      "lpa": 1.59,
+      "vpa": 4.093
+    },
+    {
+      "codigo": "ECOR3",
+      "cotacao": 6.98,
+      "lpa": 1.07,
+      "vpa": 5.884
+    },
+    {
+      "codigo": "EGIE3",
+      "cotacao": 34.2,
+      "lpa": 2.24,
+      "vpa": 11.907
+    },
+    {
+      "codigo": "EMBJ3",
+      "cotacao": 78.8,
+      "lpa": 2.2,
+      "vpa": 24.147
+    },
+    {
+      "codigo": "ENEV3",
+      "cotacao": 25.2,
+      "lpa": 0.6,
+      "vpa": 10.637
+    },
+    {
+      "codigo": "ENGI11",
+      "cotacao": 46.66,
+      "lpa": 1.38,
+      "vpa": 51.403
+    },
+    {
+      "codigo": "ENJU3",
+      "cotacao": 1.03,
+      "lpa": -0.09,
+      "vpa": 1.448
+    },
+    {
+      "codigo": "EQTL3",
+      "cotacao": 38.2,
+      "lpa": 0.94,
+      "vpa": 20.43
+    },
+    {
+      "codigo": "EVEN3",
+      "cotacao": 5.57,
+      "lpa": 1.99,
+      "vpa": 9.843
+    },
+    {
+      "codigo": "EZTC3",
+      "cotacao": 13.12,
+      "lpa": 2.1,
+      "vpa": 18.569
+    },
+    {
+      "codigo": "FLRY3",
+      "cotacao": 15.07,
+      "lpa": 1.16,
+      "vpa": 9.533
+    },
+    {
+      "codigo": "GFSA3",
+      "cotacao": 1.33,
+      "lpa": -74.47,
+      "vpa": 62.544
+    },
+    {
+      "codigo": "GGBR4",
+      "cotacao": 21.7,
+      "lpa": 0.83,
+      "vpa": 26.822
+    },
+    {
+      "codigo": "GGPS3",
+      "cotacao": 11.58,
+      "lpa": 0.94,
+      "vpa": 5.479
+    },
+    {
+      "codigo": "GMAT3",
+      "cotacao": 3.84,
+      "lpa": 0.79,
+      "vpa": 4.872
+    },
+    {
+      "codigo": "GOAU4",
+      "cotacao": 9.55,
+      "lpa": 0.37,
+      "vpa": 14.278
+    },
+    {
+      "codigo": "GRND3",
+      "cotacao": 3.86,
+      "lpa": 0.7,
+      "vpa": 3.496
+    },
+    {
+      "codigo": "HAPV3",
+      "cotacao": 10.28,
+      "lpa": -0.87,
+      "vpa": 101.36
+    },
+    {
+      "codigo": "HBSA3",
+      "cotacao": 3.59,
+      "lpa": 0.01,
+      "vpa": 1.474
+    },
+    {
+      "codigo": "HYPE3",
+      "cotacao": 20.33,
+      "lpa": 2.62,
+      "vpa": 22.284
+    },
+    {
+      "codigo": "IGTI11",
+      "cotacao": 24.18,
+      "lpa": 0.163,
+      "vpa": 16.46
+    },
+    {
+      "codigo": "INTB3",
+      "cotacao": 13.49,
+      "lpa": 1.76,
+      "vpa": 9.607
+    },
+    {
+      "codigo": "ISAE4",
+      "cotacao": 27.85,
+      "lpa": 3.56,
+      "vpa": 32.102
+    },
+    {
+      "codigo": "ITSA4",
+      "cotacao": 13.03,
+      "lpa": 1.52,
+      "vpa": 8.045
+    },
+    {
+      "codigo": "ITUB3",
+      "cotacao": 43.2,
+      "lpa": 4.12,
+      "vpa": 19.027
+    },
+    {
+      "codigo": "ITUB4",
+      "cotacao": 41.05,
+      "lpa": 4.12,
+      "vpa": 19.027
+    },
+    {
+      "codigo": "JHSF3",
+      "cotacao": 10.75,
+      "lpa": 3.16,
+      "vpa": 10.592
+    },
+    {
+      "codigo": "KLBN11",
+      "cotacao": 16.81,
+      "lpa": 0.661,
+      "vpa": 7.363
+    },
+    {
+      "codigo": "KLBN3",
+      "cotacao": 3.35,
+      "lpa": 0.08,
+      "vpa": 7.363
+    },
+    {
+      "codigo": "KLBN4",
+      "cotacao": 3.37,
+      "lpa": 0.08,
+      "vpa": 7.363
+    },
+    {
+      "codigo": "LIGT3",
+      "cotacao": 2.97,
+      "lpa": 1.9,
+      "vpa": 22.341
+    },
+    {
+      "codigo": "LJQQ3",
+      "cotacao": 1.38,
+      "lpa": -0.93,
+      "vpa": 1.659
+    },
+    {
+      "codigo": "LREN3",
+      "cotacao": 14.54,
+      "lpa": 1.49,
+      "vpa": 10.617
+    },
+    {
+      "codigo": "LWSA3",
+      "cotacao": 3.76,
+      "lpa": -0.4,
+      "vpa": 4.273
+    },
+    {
+      "codigo": "MBRF3",
+      "cotacao": 16.8,
+      "lpa": 0.33,
+      "vpa": 8.152
+    },
+    {
+      "codigo": "MGLU3",
+      "cotacao": 4.42,
+      "lpa": 0.18,
+      "vpa": 14.56
+    },
+    {
+      "codigo": "MILS3",
+      "cotacao": 15.38,
+      "lpa": 1.8,
+      "vpa": 7.817
+    },
+    {
+      "codigo": "MLAS3",
+      "cotacao": 1.68,
+      "lpa": 0.22,
+      "vpa": 3.676
+    },
+    {
+      "codigo": "MOTV3",
+      "cotacao": 14.21,
+      "lpa": 1.47,
+      "vpa": 8.124
+    },
+    {
+      "codigo": "MOVI3",
+      "cotacao": 9.62,
+      "lpa": 1.05,
+      "vpa": 9.044
+    },
+    {
+      "codigo": "MRVE3",
+      "cotacao": 4.9,
+      "lpa": -1.35,
+      "vpa": 9.265
+    },
+    {
+      "codigo": "MULT3",
+      "cotacao": 28.75,
+      "lpa": 2.47,
+      "vpa": 13.204
+    },
+    {
+      "codigo": "NATU3",
+      "cotacao": 7.72,
+      "lpa": -0.17,
+      "vpa": 9.069
+    },
+    {
+      "codigo": "OIBR3",
+      "cotacao": 0.1,
+      "lpa": -81.95,
+      "vpa": -47.877
+    },
+    {
+      "codigo": "ONCO3",
+      "cotacao": 1.35,
+      "lpa": -4.34,
+      "vpa": 0.477
+    },
+    {
+      "codigo": "PASS3",
+      "cotacao": 25.1,
+      "lpa": 1.73,
+      "vpa": 8.019
+    },
+    {
+      "codigo": "PCAR3",
+      "cotacao": 2.08,
+      "lpa": -3.88,
+      "vpa": 4.292
+    },
+    {
+      "codigo": "PETR3",
+      "cotacao": 43.98,
+      "lpa": 8.13,
+      "vpa": 34.541
+    },
+    {
+      "codigo": "PETR4",
+      "cotacao": 39.33,
+      "lpa": 8.13,
+      "vpa": 34.541
+    },
+    {
+      "codigo": "PGMN3",
+      "cotacao": 3.68,
+      "lpa": 0.49,
+      "vpa": 4.677
+    },
+    {
+      "codigo": "PLPL3",
+      "cotacao": 8.25,
+      "lpa": 1.67,
+      "vpa": 5.043
+    },
+    {
+      "codigo": "PMAM3",
+      "cotacao": 0.28,
+      "lpa": -12.63,
+      "vpa": -62.586
+    },
+    {
+      "codigo": "POMO4",
+      "cotacao": 5.81,
+      "lpa": 1.0,
+      "vpa": 3.272
+    },
+    {
+      "codigo": "POSI3",
+      "cotacao": 3.86,
+      "lpa": 0.07,
+      "vpa": 11.183
+    },
+    {
+      "codigo": "PRIO3",
+      "cotacao": 56.1,
+      "lpa": 3.28,
+      "vpa": 32.98
+    },
+    {
+      "codigo": "PSSA3",
+      "cotacao": 52.19,
+      "lpa": 5.68,
+      "vpa": 24.263
+    },
+    {
+      "codigo": "QUAL3",
+      "cotacao": 1.92,
+      "lpa": 0.02,
+      "vpa": 4.647
+    },
+    {
+      "codigo": "RADL3",
+      "cotacao": 17.0,
+      "lpa": 0.79,
+      "vpa": 4.198
+    },
+    {
+      "codigo": "RAIL3",
+      "cotacao": 12.9,
+      "lpa": 0.56,
+      "vpa": 7.487
+    },
+    {
+      "codigo": "RAIZ4",
+      "cotacao": 0.42,
+      "lpa": -2.15,
+      "vpa": -0.154
+    },
+    {
+      "codigo": "RAPT4",
+      "cotacao": 4.41,
+      "lpa": -1.09,
+      "vpa": 8.914
+    },
+    {
+      "codigo": "RCSL4",
+      "cotacao": 0.56,
+      "lpa": -0.08,
+      "vpa": -0.108
+    },
+    {
+      "codigo": "RDOR3",
+      "cotacao": 34.34,
+      "lpa": 2.09,
+      "vpa": 8.989
+    },
+    {
+      "codigo": "RECV3",
+      "cotacao": 10.11,
+      "lpa": 1.83,
+      "vpa": 14.321
+    },
+    {
+      "codigo": "RENT3",
+      "cotacao": 41.78,
+      "lpa": 2.07,
+      "vpa": 24.024
+    },
+    {
+      "codigo": "SANB11",
+      "cotacao": 26.75,
+      "lpa": 2.046,
+      "vpa": 33.762
+    },
+    {
+      "codigo": "SAPR11",
+      "cotacao": 38.82,
+      "lpa": 0.809,
+      "vpa": 42.021
+    },
+    {
+      "codigo": "SAUD3",
+      "cotacao": 13.81,
+      "lpa": 1.04,
+      "vpa": 2.627
+    },
+    {
+      "codigo": "SBFG3",
+      "cotacao": 10.2,
+      "lpa": 1.44,
+      "vpa": 14.297
+    },
+    {
+      "codigo": "SBSP3",
+      "cotacao": 28.16,
+      "lpa": 2.54,
+      "vpa": 12.462
+    },
+    {
+      "codigo": "SIMH3",
+      "cotacao": 7.77,
+      "lpa": -0.17,
+      "vpa": 9.969
+    },
+    {
+      "codigo": "SLCE3",
+      "cotacao": 13.46,
+      "lpa": 0.65,
+      "vpa": 10.698
+    },
+    {
+      "codigo": "SMFT3",
+      "cotacao": 18.85,
+      "lpa": 1.11,
+      "vpa": 9.615
+    },
+    {
+      "codigo": "SMTO3",
+      "cotacao": 14.77,
+      "lpa": 2.53,
+      "vpa": 22.815
+    },
+    {
+      "codigo": "SUZB3",
+      "cotacao": 41.95,
+      "lpa": 9.19,
+      "vpa": 38.861
+    },
+    {
+      "codigo": "TAEE11",
+      "cotacao": 39.79,
+      "lpa": 1.01,
+      "vpa": 23.104
+    },
+    {
+      "codigo": "TEND3",
+      "cotacao": 35.0,
+      "lpa": 4.92,
+      "vpa": 11.078
+    },
+    {
+      "codigo": "TIMS3",
+      "cotacao": 22.3,
+      "lpa": 1.79,
+      "vpa": 10.223
+    },
+    {
+      "codigo": "TOTS3",
+      "cotacao": 27.55,
+      "lpa": 1.47,
+      "vpa": 8.688
+    },
+    {
+      "codigo": "TTEN3",
+      "cotacao": 15.19,
+      "lpa": 1.4,
+      "vpa": 9.399
+    },
+    {
+      "codigo": "UGPA3",
+      "cotacao": 25.49,
+      "lpa": 2.85,
+      "vpa": 15.411
+    },
+    {
+      "codigo": "USIM5",
+      "cotacao": 8.66,
+      "lpa": -2.13,
+      "vpa": 16.684
+    },
+    {
+      "codigo": "VALE3",
+      "cotacao": 79.38,
+      "lpa": 3.4,
+      "vpa": 44.839
+    },
+    {
+      "codigo": "VAMO3",
+      "cotacao": 2.81,
+      "lpa": 0.29,
+      "vpa": 2.403
+    },
+    {
+      "codigo": "VBBR3",
+      "cotacao": 29.39,
+      "lpa": 2.57,
+      "vpa": 18.221
+    },
+    {
+      "codigo": "VIVA3",
+      "cotacao": 21.88,
+      "lpa": 2.49,
+      "vpa": 12.548
+    },
+    {
+      "codigo": "VIVT3",
+      "cotacao": 34.28,
+      "lpa": 1.97,
+      "vpa": 21.505
+    },
+    {
+      "codigo": "VVEO3",
+      "cotacao": 1.22,
+      "lpa": 0.06,
+      "vpa": 6.134
+    },
+    {
+      "codigo": "WEGE3",
+      "cotacao": 45.71,
+      "lpa": 1.5,
+      "vpa": 4.151
+    },
+    {
+      "codigo": "YDUQ3",
+      "cotacao": 8.53,
+      "lpa": 0.44,
+      "vpa": 11.449
+    }
+  ]
+}
