@@ -1,147 +1,127 @@
 {
-  "atualizadoEm": "2026-06-24 18:15",
+  "atualizadoEm": "2026-06-24 21:12",
   "topBG": [
     {
       "codigo": "FICT3",
       "nome": "Fictor Alimentos S.A.",
-      "cotacao": 0.22,
-      "fundamentusVI": 4.808242922315802,
-      "descontoFundamentus": 95.42452401938876
+      "lpa": 0.76,
+      "vpa": 1.352
     },
     {
       "codigo": "LIGT3",
       "nome": "Light S.A.",
-      "cotacao": 3.0,
-      "fundamentusVI": 30.904332220580336,
-      "descontoFundamentus": 90.29262312290899
+      "lpa": 1.9,
+      "vpa": 22.341
     },
     {
       "codigo": "AMER3",
       "nome": "Americanas S.A.",
-      "cotacao": 4.28,
-      "fundamentusVI": 36.18188116999999,
-      "descontoFundamentus": 88.17087486443701
+      "lpa": 2.63,
+      "vpa": 22.123
     },
     {
       "codigo": "ALLD3",
       "nome": "Allied Tecnologia S.A.",
-      "cotacao": 4.83,
-      "fundamentusVI": 35.4933314159153,
-      "descontoFundamentus": 86.39180993352961
+      "lpa": 3.49,
+      "vpa": 16.043
     },
     {
       "codigo": "BSLI3",
       "nome": "BRB - Banco de Brasília S.A.",
-      "cotacao": 3.04,
-      "fundamentusVI": 19.300471496831367,
-      "descontoFundamentus": 84.24908945618719
+      "lpa": 2.02,
+      "vpa": 8.196
     },
     {
       "codigo": "BSLI4",
       "nome": "BRB - Banco de Brasília S.A.",
-      "cotacao": 3.2,
-      "fundamentusVI": 19.300471496831367,
-      "descontoFundamentus": 83.42009416440757
+      "lpa": 2.02,
+      "vpa": 8.196
     },
     {
       "codigo": "VTRU3",
       "nome": "Vitru Educação S.A.",
-      "cotacao": 13.3,
-      "fundamentusVI": 69.46480403772834,
-      "descontoFundamentus": 80.85361330210277
+      "lpa": 7.7,
+      "vpa": 27.852
     },
     {
       "codigo": "MNPR3",
       "nome": "Minupar Participações S.A.",
-      "cotacao": 3.95,
-      "fundamentusVI": 19.25407619180936,
-      "descontoFundamentus": 79.48486356525211
+      "lpa": 5.82,
+      "vpa": 2.831
     },
     {
       "codigo": "IGTI3",
       "nome": "Iguatemi S.A.",
-      "cotacao": 3.33,
-      "fundamentusVI": 14.656159114856798,
-      "descontoFundamentus": 77.2791768027108
+      "lpa": 0.58,
+      "vpa": 16.46
     },
     {
       "codigo": "ETER3",
       "nome": "Eternit S.A.",
-      "cotacao": 3.6,
-      "fundamentusVI": 15.26446608958204,
-      "descontoFundamentus": 76.415814487891
+      "lpa": 0.77,
+      "vpa": 13.449
     }
   ],
   "topFL": [
     {
       "codigo": "GFSA3",
       "nome": "Gafisa S.A.",
-      "cotacao": 1.27,
-      "novoVI": 62.544,
-      "descontoNovo": 97.96942952161677
+      "lpa": -74.47,
+      "vpa": 62.544
     },
     {
       "codigo": "HAPV3",
       "nome": "Hapvida Participações e Investimentos S.A.",
-      "cotacao": 10.17,
-      "novoVI": 101.36,
-      "descontoNovo": 89.96645619573796
+      "lpa": -0.87,
+      "vpa": 101.36
     },
     {
       "codigo": "LIGT3",
       "nome": "Light S.A.",
-      "cotacao": 3.0,
-      "novoVI": 22.341,
-      "descontoNovo": 86.57177386867195
+      "lpa": 1.9,
+      "vpa": 22.341
     },
     {
       "codigo": "TOKY3",
       "nome": "GRUPO TOKY  ON      NM",
-      "cotacao": 0.28,
-      "novoVI": 2.044,
-      "descontoNovo": 86.3013698630137
+      "lpa": -2.84,
+      "vpa": 2.044
     },
     {
       "codigo": "HBRE3",
       "nome": "HBR Realty Empreendimentos Imobiliários S.A.",
-      "cotacao": 2.59,
-      "novoVI": 17.578,
-      "descontoNovo": 85.26567300034134
+      "lpa": 0.29,
+      "vpa": 17.578
     },
     {
       "codigo": "FICT3",
       "nome": "Fictor Alimentos S.A.",
-      "cotacao": 0.22,
-      "novoVI": 1.352,
-      "descontoNovo": 83.72781065088758
+      "lpa": 0.76,
+      "vpa": 1.352
     },
     {
       "codigo": "SAPR4",
       "nome": "Companhia de Saneamento do Paraná - SANEPAR",
-      "cotacao": 7.17,
-      "novoVI": 42.021,
-      "descontoNovo": 82.93710287713286
+      "lpa": 0.76,
+      "vpa": 42.021
     },
     {
       "codigo": "WEST3",
       "nome": "Westwing Comércio Varejista S.A.",
-      "cotacao": 3.41,
-      "novoVI": 19.758,
-      "descontoNovo": 82.74116813442656
+      "lpa": -0.19,
+      "vpa": 19.758
     },
     {
       "codigo": "AMER3",
       "nome": "Americanas S.A.",
-      "cotacao": 4.28,
-      "novoVI": 22.123,
-      "descontoNovo": 80.6536184061836
+      "lpa": 2.63,
+      "vpa": 22.123
     },
     {
       "codigo": "VVEO3",
       "nome": "CM Hospitalar S/A",
-      "cotacao": 1.22,
-      "novoVI": 6.134,
-      "descontoNovo": 80.11085751548745
+      "lpa": 0.06,
+      "vpa": 6.134
     }
   ]
 }
