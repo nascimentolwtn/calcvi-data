@@ -1,12 +1,6 @@
 {
-  "atualizadoEm": "2026-06-24 21:12",
+  "atualizadoEm": "2026-06-28 13:57",
   "topBG": [
-    {
-      "codigo": "FICT3",
-      "nome": "Fictor Alimentos S.A.",
-      "lpa": 0.76,
-      "vpa": 1.352
-    },
     {
       "codigo": "LIGT3",
       "nome": "Light S.A.",
@@ -60,6 +54,12 @@
       "nome": "Eternit S.A.",
       "lpa": 0.77,
       "vpa": 13.449
+    },
+    {
+      "codigo": "HBRE3",
+      "nome": "HBR Realty Empreendimentos Imobiliários S.A.",
+      "lpa": 0.29,
+      "vpa": 17.578
     }
   ],
   "topFL": [
@@ -76,10 +76,10 @@
       "vpa": 101.36
     },
     {
-      "codigo": "LIGT3",
-      "nome": "Light S.A.",
-      "lpa": 1.9,
-      "vpa": 22.341
+      "codigo": "VVEO3",
+      "nome": "CM Hospitalar S/A",
+      "lpa": 0.06,
+      "vpa": 6.134
     },
     {
       "codigo": "TOKY3",
@@ -94,9 +94,15 @@
       "vpa": 17.578
     },
     {
+      "codigo": "LIGT3",
+      "nome": "Light S.A.",
+      "lpa": 1.9,
+      "vpa": 22.341
+    },
+    {
       "codigo": "FICT3",
       "nome": "Fictor Alimentos S.A.",
-      "lpa": 0.76,
+      "lpa": -0.8,
       "vpa": 1.352
     },
     {
@@ -106,22 +112,16 @@
       "vpa": 42.021
     },
     {
-      "codigo": "WEST3",
-      "nome": "Westwing Comércio Varejista S.A.",
-      "lpa": -0.19,
-      "vpa": 19.758
-    },
-    {
       "codigo": "AMER3",
       "nome": "Americanas S.A.",
       "lpa": 2.63,
       "vpa": 22.123
     },
     {
-      "codigo": "VVEO3",
-      "nome": "CM Hospitalar S/A",
-      "lpa": 0.06,
-      "vpa": 6.134
+      "codigo": "HBOR3",
+      "nome": "Helbor Empreendimentos S.A.",
+      "lpa": 0.04,
+      "vpa": 10.91
     }
   ]
 }

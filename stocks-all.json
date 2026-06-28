@@ -1,767 +1,1810 @@
 {
-  "atualizadoEm": "2026-06-24 21:12",
+  "atualizadoEm": "2026-06-28 13:57",
   "stocks": [
     {
       "codigo": "ABEV3",
       "nome": "Ambev S.A.",
       "lpa": 0.99,
-      "vpa": 5.779
+      "vpa": 5.779,
+      "weekLow": 0.0,
+      "weekHigh": 17.04,
+      "pls": [
+        16.899
+      ],
+      "pvpas": [
+        2.895
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "ALOS3",
       "nome": "Allos S.A.",
-      "lpa": 1.66,
-      "vpa": 25.972
+      "lpa": 1.65,
+      "vpa": 25.972,
+      "weekLow": 0.0,
+      "weekHigh": 34.17,
+      "pls": [
+        16.9939
+      ],
+      "pvpas": [
+        1.0796
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "AMBP3",
       "nome": "Ambipar Participações e Empreendimentos S.A.",
       "lpa": -0.06,
-      "vpa": 0.656
+      "vpa": 0.656,
+      "weekLow": 0.0,
+      "weekHigh": 19.38,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "ANIM3",
       "nome": "Ânima Holding S.A.",
       "lpa": 0.36,
-      "vpa": 6.322
+      "vpa": 6.322,
+      "weekLow": 0.0,
+      "weekHigh": 5.39,
+      "pls": [
+        7.6111
+      ],
+      "pvpas": [
+        0.4334
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "ARML3",
       "nome": "Armac Locação, Logística e Serviços S.A.",
       "lpa": 0.14,
-      "vpa": 3.688
+      "vpa": 3.688,
+      "weekLow": 0.0,
+      "weekHigh": 6.3,
+      "pls": [
+        22.3571
+      ],
+      "pvpas": [
+        0.8487
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "ASAI3",
       "nome": "Sendas Distribuidora S.A.",
       "lpa": 0.68,
-      "vpa": 4.388
+      "vpa": 4.388,
+      "weekLow": 0.0,
+      "weekHigh": 11.5,
+      "pls": [
+        12.9853
+      ],
+      "pvpas": [
+        2.0123
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "AURE3",
       "nome": "Auren Energia S.A.",
       "lpa": -1.24,
-      "vpa": 11.402
+      "vpa": 11.402,
+      "weekLow": 0.0,
+      "weekHigh": 14.66,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "AXIA3",
       "nome": "AXIA Energia SA",
       "lpa": 4.4,
-      "vpa": 42.66
+      "vpa": 42.66,
+      "weekLow": 0.0,
+      "weekHigh": 67.84,
+      "pls": [
+        12.6409
+      ],
+      "pvpas": [
+        1.3038
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "AZEV4",
       "nome": "Azevedo & Travassos S.A.",
-      "lpa": -1.03,
-      "vpa": 0.19
+      "lpa": -20.51,
+      "vpa": 0.19,
+      "weekLow": 0.0,
+      "weekHigh": 13.4,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "AZTE3",
       "nome": "Azevedo & Travassos Energia S.A.",
       "lpa": -0.02,
-      "vpa": 0.724
+      "vpa": 0.724,
+      "weekLow": 0.0,
+      "weekHigh": 0.76,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "AZZA3",
       "nome": "Azzas 2154 S.A.",
       "lpa": 4.05,
-      "vpa": 39.634
+      "vpa": 39.634,
+      "weekLow": 0.0,
+      "weekHigh": 43.7,
+      "pls": [
+        4.6889
+      ],
+      "pvpas": [
+        0.4791
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "B3SA3",
       "nome": "B3 S.A. - Brasil, Bolsa, Balcão",
       "lpa": 0.92,
-      "vpa": 3.643
+      "vpa": 3.643,
+      "weekLow": 0.0,
+      "weekHigh": 20.33,
+      "pls": [
+        16.2174
+      ],
+      "pvpas": [
+        4.0955
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "BBAS3",
       "nome": "Banco do Brasil S.A.",
       "lpa": 2.22,
-      "vpa": 32.546
+      "vpa": 32.546,
+      "weekLow": 0.0,
+      "weekHigh": 27.81,
+      "pls": [
+        9.1622
+      ],
+      "pvpas": [
+        0.625
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "BBDC3",
       "nome": "Banco Bradesco S.A.",
       "lpa": 2.1,
-      "vpa": 17.006
+      "vpa": 17.006,
+      "weekLow": 0.0,
+      "weekHigh": 18.98,
+      "pls": [
+        7.4476
+      ],
+      "pvpas": [
+        0.9197
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "BBDC4",
       "nome": "Banco Bradesco S.A.",
       "lpa": 2.1,
-      "vpa": 17.006
+      "vpa": 17.006,
+      "weekLow": 0.0,
+      "weekHigh": 22.12,
+      "pls": [
+        8.5333
+      ],
+      "pvpas": [
+        1.0537
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "BBSE3",
       "nome": "BB Seguridade Participações S.A.",
       "lpa": 4.74,
-      "vpa": 6.512
+      "vpa": 6.512,
+      "weekLow": 0.0,
+      "weekHigh": 40.12,
+      "pls": [
+        8.2637
+      ],
+      "pvpas": [
+        6.015
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "BEEF3",
       "nome": "Minerva S.A.",
       "lpa": 0.47,
-      "vpa": 1.276
+      "vpa": 1.276,
+      "weekLow": 0.0,
+      "weekHigh": 7.58,
+      "pls": [
+        7.6383
+      ],
+      "pvpas": [
+        2.8135
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "BHIA3",
       "nome": "Grupo Casas Bahia S.A.",
       "lpa": -6.18,
-      "vpa": 2.719
+      "vpa": 2.719,
+      "weekLow": 0.0,
+      "weekHigh": 5.48,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "BPAC11",
       "nome": "Banco BTG Pactual S.A.",
       "lpa": 0.614,
-      "vpa": 15.456
+      "vpa": 15.456,
+      "weekLow": 0.0,
+      "weekHigh": 65.5,
+      "pls": [
+        89.0228
+      ],
+      "pvpas": [
+        3.5365
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "BRAP4",
       "nome": "Bradespar S.A.",
       "lpa": 1.87,
-      "vpa": 19.455
+      "vpa": 19.903,
+      "weekLow": 0.0,
+      "weekHigh": 25.63,
+      "pls": [
+        11.877
+      ],
+      "pvpas": [
+        1.1159
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "BRAV3",
       "nome": "Brava Energia S.A.",
       "lpa": 0.49,
-      "vpa": 24.562
+      "vpa": 24.562,
+      "weekLow": 0.0,
+      "weekHigh": 22.28,
+      "pls": [
+        39.2041
+      ],
+      "pvpas": [
+        0.7821
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "BRKM5",
       "nome": "Braskem S.A.",
       "lpa": -11.45,
-      "vpa": -19.745
+      "vpa": -19.745,
+      "weekLow": 0.0,
+      "weekHigh": 13.78,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "BRSR6",
       "nome": "Banco do Estado do Rio Grande do Sul S.A.",
       "lpa": 4.31,
-      "vpa": 28.025
+      "vpa": 28.025,
+      "weekLow": 0.0,
+      "weekHigh": 19.2,
+      "pls": [
+        3.2065
+      ],
+      "pvpas": [
+        0.4931
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "CBAV3",
       "nome": "Companhia Brasileira de Alumínio",
       "lpa": 0.19,
-      "vpa": 7.112
+      "vpa": 7.112,
+      "weekLow": 0.0,
+      "weekHigh": 10.78,
+      "pls": [
+        56.4737
+      ],
+      "pvpas": [
+        1.5087
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "CEAB3",
       "nome": "C&A Modas S.A.",
       "lpa": 1.88,
-      "vpa": 12.246
+      "vpa": 12.246,
+      "weekLow": 0.0,
+      "weekHigh": 21.3,
+      "pls": [
+        5.8617
+      ],
+      "pvpas": [
+        0.8999
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "CMIG4",
       "nome": "Companhia Energética de Minas Gerais - CEMIG",
       "lpa": 1.71,
-      "vpa": 10.098
+      "vpa": 10.098,
+      "weekLow": 0.0,
+      "weekHigh": 13.87,
+      "pls": [
+        6.4094
+      ],
+      "pvpas": [
+        1.0854
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "CMIN3",
       "nome": "CSN Mineração S.A.",
       "lpa": 0.41,
-      "vpa": 1.23
+      "vpa": 1.23,
+      "weekLow": 0.0,
+      "weekHigh": 6.56,
+      "pls": [
+        10.3659
+      ],
+      "pvpas": [
+        3.4553
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "COGN3",
       "nome": "Cogna Educação S.A.",
       "lpa": 0.34,
-      "vpa": 6.742
+      "vpa": 6.816,
+      "weekLow": 0.0,
+      "weekHigh": 4.75,
+      "pls": [
+        6.7647
+      ],
+      "pvpas": [
+        0.3374
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "CPFE3",
       "nome": "CPFL Energia S.A.",
       "lpa": 5.0,
-      "vpa": 21.087
+      "vpa": 21.087,
+      "weekLow": 0.0,
+      "weekHigh": 57.21,
+      "pls": [
+        9.1
+      ],
+      "pvpas": [
+        2.1577
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "CPLE3",
       "nome": "Companhia Paranaense de Energia - COPEL",
       "lpa": 0.91,
-      "vpa": 8.024
+      "vpa": 8.024,
+      "weekLow": 0.0,
+      "weekHigh": 17.13,
+      "pls": [
+        16.7692
+      ],
+      "pvpas": [
+        1.9018
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "CSAN3",
       "nome": "Cosan S.A.",
       "lpa": -3.34,
-      "vpa": 0.892
+      "vpa": 0.892,
+      "weekLow": 0.0,
+      "weekHigh": 8.03,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "CSMG3",
       "nome": "Companhia de Saneamento de Minas Gerais",
       "lpa": 3.57,
-      "vpa": 23.126
+      "vpa": 23.126,
+      "weekLow": 0.0,
+      "weekHigh": 61.0,
+      "pls": [
+        16.8515
+      ],
+      "pvpas": [
+        2.6014
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "CSNA3",
       "nome": "Companhia Siderúrgica Nacional",
       "lpa": -1.51,
-      "vpa": 9.69
+      "vpa": 9.69,
+      "weekLow": 0.0,
+      "weekHigh": 11.32,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "CURY3",
       "nome": "Cury Construtora e Incorporadora S.A.",
       "lpa": 3.58,
-      "vpa": 5.014
+      "vpa": 5.014,
+      "weekLow": 0.0,
+      "weekHigh": 41.76,
+      "pls": [
+        9.8073
+      ],
+      "pvpas": [
+        7.0024
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "CVCB3",
       "nome": "CVC Brasil Operadora e Agência de Viagens S.A.",
       "lpa": -0.2,
-      "vpa": 0.771
+      "vpa": 0.771,
+      "weekLow": 0.0,
+      "weekHigh": 2.79,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "CXSE3",
       "nome": "Caixa Seguridade Participações S.A.",
       "lpa": 1.46,
-      "vpa": 4.591
+      "vpa": 4.591,
+      "weekLow": 0.0,
+      "weekHigh": 20.13,
+      "pls": [
+        13.4384
+      ],
+      "pvpas": [
+        4.2736
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "CYRE3",
       "nome": "Cyrela Brazil Realty S.A. Empreendimentos e Participações",
       "lpa": 4.5,
-      "vpa": 24.374
+      "vpa": 24.374,
+      "weekLow": 0.0,
+      "weekHigh": 39.06,
+      "pls": [
+        5.1844
+      ],
+      "pvpas": [
+        0.9572
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "DIRR3",
       "nome": "Direcional Engenharia S.A.",
       "lpa": 1.59,
-      "vpa": 4.093
+      "vpa": 4.093,
+      "weekLow": 0.0,
+      "weekHigh": 19.04,
+      "pls": [
+        8.9308
+      ],
+      "pvpas": [
+        3.4693
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "ECOR3",
       "nome": "EcoRodovias Infraestrutura e Logística S.A.",
       "lpa": 1.07,
-      "vpa": 5.884
+      "vpa": 5.884,
+      "weekLow": 0.0,
+      "weekHigh": 12.38,
+      "pls": [
+        6.9159
+      ],
+      "pvpas": [
+        1.2576
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "EGIE3",
       "nome": "Engie Brasil Energia S.A.",
       "lpa": 2.25,
-      "vpa": 11.907
+      "vpa": 11.907,
+      "weekLow": 0.0,
+      "weekHigh": 39.36,
+      "pls": [
+        15.1822
+      ],
+      "pvpas": [
+        2.8689
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "EMBJ3",
       "nome": "Embraer S.A.",
-      "lpa": 2.2,
-      "vpa": 24.147
+      "lpa": 2.22,
+      "vpa": 24.147,
+      "weekLow": 0.0,
+      "weekHigh": 105.5,
+      "pls": [
+        36.8919
+      ],
+      "pvpas": [
+        3.3917
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "ENEV3",
       "nome": "Eneva S.A.",
       "lpa": 0.6,
-      "vpa": 10.637
+      "vpa": 10.637,
+      "weekLow": 0.0,
+      "weekHigh": 28.12,
+      "pls": [
+        44.6833
+      ],
+      "pvpas": [
+        2.5204
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "ENGI11",
       "nome": "Energisa S.A.",
       "lpa": 1.38,
-      "vpa": 51.403
+      "vpa": 51.403,
+      "weekLow": 0.0,
+      "weekHigh": 59.25,
+      "pls": [
+        34.4928
+      ],
+      "pvpas": [
+        0.926
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "ENJU3",
       "nome": "Enjoei S.A.",
       "lpa": -0.09,
-      "vpa": 1.448
+      "vpa": 1.448,
+      "weekLow": 0.0,
+      "weekHigh": 1.34,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "EQTL3",
       "nome": "Equatorial S.A.",
       "lpa": 0.94,
-      "vpa": 20.43
+      "vpa": 20.43,
+      "weekLow": 0.0,
+      "weekHigh": 46.32,
+      "pls": [
+        42.2872
+      ],
+      "pvpas": [
+        1.9457
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "EVEN3",
       "nome": "Even Construtora e Incorporadora S.A.",
       "lpa": 1.99,
-      "vpa": 9.843
+      "vpa": 9.843,
+      "weekLow": 0.0,
+      "weekHigh": 9.17,
+      "pls": [
+        2.8995
+      ],
+      "pvpas": [
+        0.5862
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "EZTC3",
       "nome": "EZTEC Empreendimentos e Participações S.A.",
       "lpa": 2.1,
-      "vpa": 18.569
+      "vpa": 18.569,
+      "weekLow": 0.0,
+      "weekHigh": 16.72,
+      "pls": [
+        6.3571
+      ],
+      "pvpas": [
+        0.7189
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "FLRY3",
       "nome": "Fleury S.A.",
       "lpa": 1.16,
-      "vpa": 9.533
+      "vpa": 9.533,
+      "weekLow": 0.0,
+      "weekHigh": 18.1,
+      "pls": [
+        13.4569
+      ],
+      "pvpas": [
+        1.6375
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "GFSA3",
       "nome": "Gafisa S.A.",
       "lpa": -74.47,
-      "vpa": 62.544
+      "vpa": 62.544,
+      "weekLow": 0.0,
+      "weekHigh": 21.39,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "GGBR4",
       "nome": "Gerdau S.A.",
       "lpa": 0.83,
-      "vpa": 26.822
+      "vpa": 26.822,
+      "weekLow": 0.0,
+      "weekHigh": 24.65,
+      "pls": [
+        25.8072
+      ],
+      "pvpas": [
+        0.7986
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "GGPS3",
       "nome": "GPS Participações e Empreendimentos S.A.",
       "lpa": 0.94,
-      "vpa": 5.479
+      "vpa": 5.479,
+      "weekLow": 0.0,
+      "weekHigh": 19.65,
+      "pls": [
+        12.5957
+      ],
+      "pvpas": [
+        2.161
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "GMAT3",
       "nome": "Grupo Mateus S.A.",
       "lpa": 0.79,
-      "vpa": 4.872
+      "vpa": 4.872,
+      "weekLow": 0.0,
+      "weekHigh": 8.38,
+      "pls": [
+        4.8987
+      ],
+      "pvpas": [
+        0.7943
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "GOAU4",
       "nome": "Metalurgica Gerdau S.A.",
       "lpa": 0.37,
-      "vpa": 14.278
+      "vpa": 14.278,
+      "weekLow": 0.0,
+      "weekHigh": 10.77,
+      "pls": [
+        25.6757
+      ],
+      "pvpas": [
+        0.6654
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "GRND3",
       "nome": "Grendene S.A.",
       "lpa": 0.7,
-      "vpa": 3.496
+      "vpa": 3.518,
+      "weekLow": 0.0,
+      "weekHigh": 5.68,
+      "pls": [
+        5.5143
+      ],
+      "pvpas": [
+        1.0972
+      ],
+      "lastQuarter": "2025-12-31"
     },
     {
       "codigo": "HAPV3",
       "nome": "Hapvida Participações e Investimentos S.A.",
       "lpa": -0.87,
-      "vpa": 101.36
+      "vpa": 101.36,
+      "weekLow": 0.0,
+      "weekHigh": 42.66,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "HBSA3",
       "nome": "Hidrovias do Brasil S.A.",
       "lpa": 0.01,
-      "vpa": 1.474
+      "vpa": 1.474,
+      "weekLow": 0.0,
+      "weekHigh": 4.39,
+      "pls": [
+        372.0
+      ],
+      "pvpas": [
+        2.5237
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "HYPE3",
       "nome": "Hypera S.A.",
       "lpa": 2.62,
-      "vpa": 22.284
+      "vpa": 22.284,
+      "weekLow": 0.0,
+      "weekHigh": 28.35,
+      "pls": [
+        8.2328
+      ],
+      "pvpas": [
+        0.968
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "IGTI11",
       "nome": "Iguatemi S.A.",
       "lpa": 0.163,
-      "vpa": 16.46
+      "vpa": 16.46,
+      "weekLow": 0.0,
+      "weekHigh": 30.62,
+      "pls": [
+        157.0552
+      ],
+      "pvpas": [
+        1.5553
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "INTB3",
       "nome": "Intelbras S.A. - Indústria de Telecomunicação Eletrônica Brasileira",
       "lpa": 1.76,
-      "vpa": 9.607
+      "vpa": 9.607,
+      "weekLow": 0.0,
+      "weekHigh": 16.1,
+      "pls": [
+        7.9261
+      ],
+      "pvpas": [
+        1.4521
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "ISAE4",
       "nome": "ISA Energía Brasil S.A.",
       "lpa": 3.56,
-      "vpa": 32.102
+      "vpa": 32.102,
+      "weekLow": 0.0,
+      "weekHigh": 32.19,
+      "pls": [
+        7.9213
+      ],
+      "pvpas": [
+        0.8784
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "ITSA4",
       "nome": "Itaúsa S.A.",
       "lpa": 1.52,
-      "vpa": 8.045
+      "vpa": 8.045,
+      "weekLow": 0.0,
+      "weekHigh": 15.24,
+      "pls": [
+        8.8553
+      ],
+      "pvpas": [
+        1.6731
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "ITUB3",
       "nome": "Itaú Unibanco Holding S.A.",
       "lpa": 4.12,
-      "vpa": 19.027
+      "vpa": 19.027,
+      "weekLow": 0.0,
+      "weekHigh": 47.8,
+      "pls": [
+        10.7718
+      ],
+      "pvpas": [
+        2.3325
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "ITUB4",
       "nome": "Itaú Unibanco Holding S.A.",
       "lpa": 4.12,
-      "vpa": 19.027
+      "vpa": 19.027,
+      "weekLow": 0.0,
+      "weekHigh": 49.67,
+      "pls": [
+        10.2524
+      ],
+      "pvpas": [
+        2.22
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "JHSF3",
       "nome": "JHSF Participações S.A.",
       "lpa": 3.16,
-      "vpa": 10.592
+      "vpa": 10.592,
+      "weekLow": 0.0,
+      "weekHigh": 14.5,
+      "pls": [
+        3.5918
+      ],
+      "pvpas": [
+        1.0716
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "KLBN11",
       "nome": "Klabin S.A.",
       "lpa": 0.661,
-      "vpa": 7.363
+      "vpa": 7.363,
+      "weekLow": 0.0,
+      "weekHigh": 21.25,
+      "pls": [
+        25.6581
+      ],
+      "pvpas": [
+        2.3034
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "KLBN3",
       "nome": "Klabin S.A.",
       "lpa": 0.08,
-      "vpa": 7.363
+      "vpa": 7.363,
+      "weekLow": 0.0,
+      "weekHigh": 4.24,
+      "pls": [
+        42.875
+      ],
+      "pvpas": [
+        0.4658
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "KLBN4",
       "nome": "Klabin S.A.",
       "lpa": 0.08,
-      "vpa": 7.363
+      "vpa": 7.363,
+      "weekLow": 0.0,
+      "weekHigh": 4.21,
+      "pls": [
+        42.5
+      ],
+      "pvpas": [
+        0.4618
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "LIGT3",
       "nome": "Light S.A.",
       "lpa": 1.9,
-      "vpa": 22.341
+      "vpa": 22.341,
+      "weekLow": 0.0,
+      "weekHigh": 7.6,
+      "pls": [
+        1.7737
+      ],
+      "pvpas": [
+        0.1508
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "LJQQ3",
       "nome": "Lojas Quero-Quero S.A.",
       "lpa": -0.93,
-      "vpa": 1.659
+      "vpa": 1.659,
+      "weekLow": 0.0,
+      "weekHigh": 2.87,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "LREN3",
       "nome": "Lojas Renner S.A.",
-      "lpa": 1.48,
-      "vpa": 10.617
+      "lpa": 1.49,
+      "vpa": 10.617,
+      "weekLow": 0.0,
+      "weekHigh": 19.87,
+      "pls": [
+        10.047
+      ],
+      "pvpas": [
+        1.41
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "LWSA3",
       "nome": "Locaweb Serviços de Internet S.A.",
       "lpa": -0.4,
-      "vpa": 4.273
+      "vpa": 4.273,
+      "weekLow": 0.0,
+      "weekHigh": 5.09,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "MBRF3",
       "nome": "MBRF Global Foods Company S.A.",
       "lpa": 0.33,
-      "vpa": 8.152
+      "vpa": 8.152,
+      "weekLow": 0.0,
+      "weekHigh": 27.66,
+      "pls": [
+        51.8182
+      ],
+      "pvpas": [
+        2.0976
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "MGLU3",
       "nome": "Magazine Luiza S.A.",
       "lpa": 0.18,
-      "vpa": 14.56
+      "vpa": 14.56,
+      "weekLow": 0.0,
+      "weekHigh": 11.55,
+      "pls": [
+        24.6667
+      ],
+      "pvpas": [
+        0.3049
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "MILS3",
       "nome": "Mills Locação, Serviços e Logística S.A.",
       "lpa": 1.8,
-      "vpa": 7.817
+      "vpa": 7.817,
+      "weekLow": 0.0,
+      "weekHigh": 15.96,
+      "pls": [
+        8.6056
+      ],
+      "pvpas": [
+        1.9816
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "MLAS3",
       "nome": "Grupo Multi S.A.",
       "lpa": 0.22,
-      "vpa": 3.676
+      "vpa": 3.676,
+      "weekLow": 0.0,
+      "weekHigh": 1.86,
+      "pls": [
+        7.6818
+      ],
+      "pvpas": [
+        0.4597
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "MOTV3",
       "nome": "Motiva Infraestrutura de Mobilidade S.A.",
       "lpa": 1.47,
-      "vpa": 8.124
+      "vpa": 8.124,
+      "weekLow": 0.0,
+      "weekHigh": 17.81,
+      "pls": [
+        9.8503
+      ],
+      "pvpas": [
+        1.7824
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "MOVI3",
       "nome": "Movida Participações S.A.",
       "lpa": 1.05,
-      "vpa": 9.044
+      "vpa": 9.044,
+      "weekLow": 0.0,
+      "weekHigh": 14.97,
+      "pls": [
+        9.2381
+      ],
+      "pvpas": [
+        1.0725
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "MRVE3",
       "nome": "MRV Engenharia e Participações S.A.",
       "lpa": -1.35,
-      "vpa": 9.265
+      "vpa": 9.265,
+      "weekLow": 0.0,
+      "weekHigh": 10.53,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "MULT3",
       "nome": "Multiplan Empreendimentos Imobiliários S.A.",
       "lpa": 2.47,
-      "vpa": 13.204
+      "vpa": 13.204,
+      "weekLow": 0.0,
+      "weekHigh": 35.96,
+      "pls": [
+        12.1093
+      ],
+      "pvpas": [
+        2.2652
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "NATU3",
       "nome": "Natura Cosméticos S.A.",
       "lpa": -0.17,
-      "vpa": 9.069
+      "vpa": 9.069,
+      "weekLow": 0.0,
+      "weekHigh": 36.86,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "OIBR3",
       "nome": "Oi S.A.",
       "lpa": -81.95,
-      "vpa": -47.877
+      "vpa": -47.877,
+      "weekLow": 0.0,
+      "weekHigh": 0.67,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "ONCO3",
       "nome": "Oncoclínicas do Brasil Serviços Médicos S.A.",
       "lpa": -4.34,
-      "vpa": 0.477
+      "vpa": 0.477,
+      "weekLow": 0.0,
+      "weekHigh": 6.0,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "PASS3",
       "nome": "Compass Gas e Energia S.A.",
       "lpa": 1.73,
-      "vpa": 8.019
+      "vpa": 8.019,
+      "weekLow": 0.0,
+      "weekHigh": 28.35,
+      "pls": [
+        14.4162
+      ],
+      "pvpas": [
+        3.1101
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "PCAR3",
       "nome": "Companhia Brasileira De Distribuicao",
       "lpa": -3.88,
-      "vpa": 4.292
+      "vpa": 4.292,
+      "weekLow": 0.0,
+      "weekHigh": 4.6,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "PETR3",
       "nome": "Petróleo Brasileiro S.A. - Petrobras",
       "lpa": 8.13,
-      "vpa": 34.541
+      "vpa": 34.541,
+      "weekLow": 0.0,
+      "weekHigh": 56.14,
+      "pls": [
+        5.1968
+      ],
+      "pvpas": [
+        1.2232
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "PETR4",
       "nome": "Petróleo Brasileiro S.A. - Petrobras",
       "lpa": 8.13,
-      "vpa": 34.541
+      "vpa": 34.541,
+      "weekLow": 0.0,
+      "weekHigh": 50.69,
+      "pls": [
+        4.6814
+      ],
+      "pvpas": [
+        1.1019
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "PGMN3",
       "nome": "Empreendimentos Pague Menos S.A.",
       "lpa": 0.49,
-      "vpa": 4.655
+      "vpa": 4.655,
+      "weekLow": 0.0,
+      "weekHigh": 7.62,
+      "pls": [
+        7.6939
+      ],
+      "pvpas": [
+        0.8099
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "PLPL3",
       "nome": "Plano & Plano Desenvolvimento Imobiliário S.A.",
       "lpa": 1.68,
-      "vpa": 5.043
+      "vpa": 5.043,
+      "weekLow": 0.0,
+      "weekHigh": 18.02,
+      "pls": [
+        5.0833
+      ],
+      "pvpas": [
+        1.6934
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "PMAM3",
       "nome": "Paranapanema S.A.",
       "lpa": -12.63,
-      "vpa": -62.586
+      "vpa": -62.586,
+      "weekLow": 0.0,
+      "weekHigh": 1.96,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "POMO4",
       "nome": "Marcopolo S.A.",
       "lpa": 1.0,
-      "vpa": 3.272
+      "vpa": 3.272,
+      "weekLow": 0.0,
+      "weekHigh": 9.02,
+      "pls": [
+        5.85
+      ],
+      "pvpas": [
+        1.7879
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "POSI3",
       "nome": "Positivo Tecnologia S.A.",
       "lpa": 0.07,
-      "vpa": 11.183
+      "vpa": 11.183,
+      "weekLow": 0.0,
+      "weekHigh": 5.0,
+      "pls": [
+        57.0
+      ],
+      "pvpas": [
+        0.3568
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "PRIO3",
       "nome": "Prio S.A.",
-      "lpa": 3.28,
-      "vpa": 32.98
+      "lpa": 3.31,
+      "vpa": 32.98,
+      "weekLow": 0.0,
+      "weekHigh": 72.98,
+      "pls": [
+        16.0997
+      ],
+      "pvpas": [
+        1.6158
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "PSSA3",
       "nome": "Porto Seguro S.A.",
       "lpa": 5.68,
-      "vpa": 24.263
+      "vpa": 24.263,
+      "weekLow": 0.0,
+      "weekHigh": 57.21,
+      "pls": [
+        9.3768
+      ],
+      "pvpas": [
+        2.1951
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "QUAL3",
       "nome": "Qualicorp Consultoria e Corretora de Seguros S.A.",
       "lpa": 0.02,
-      "vpa": 4.647
+      "vpa": 4.647,
+      "weekLow": 0.0,
+      "weekHigh": 2.82,
+      "pls": [
+        90.0
+      ],
+      "pvpas": [
+        0.3873
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "RADL3",
       "nome": "Raia Drogasil S.A.",
       "lpa": 0.79,
-      "vpa": 4.198
+      "vpa": 4.198,
+      "weekLow": 0.0,
+      "weekHigh": 27.42,
+      "pls": [
+        21.962
+      ],
+      "pvpas": [
+        4.1329
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "RAIL3",
       "nome": "Rumo S.A.",
       "lpa": 0.56,
-      "vpa": 7.487
+      "vpa": 7.487,
+      "weekLow": 0.0,
+      "weekHigh": 18.95,
+      "pls": [
+        24.4464
+      ],
+      "pvpas": [
+        1.8285
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "RAIZ4",
       "nome": "Raízen S.A.",
       "lpa": -2.15,
-      "vpa": -0.154
+      "vpa": -0.154,
+      "weekLow": 0.0,
+      "weekHigh": 1.72,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "RAPT4",
       "nome": "Randoncorp S.A.",
       "lpa": -1.09,
-      "vpa": 8.914
+      "vpa": 8.914,
+      "weekLow": 0.0,
+      "weekHigh": 9.0,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "RCSL4",
       "nome": "Recrusul S/A",
       "lpa": -0.08,
-      "vpa": -0.108
+      "vpa": -0.108,
+      "weekLow": 0.0,
+      "weekHigh": 2.77,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "RDOR3",
       "nome": "Rede D'Or São Luiz S.A.",
       "lpa": 2.09,
-      "vpa": 8.989
+      "vpa": 8.989,
+      "weekLow": 0.0,
+      "weekHigh": 48.41,
+      "pls": [
+        16.6077
+      ],
+      "pvpas": [
+        3.8614
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "RECV3",
       "nome": "Petroreconcavo S.A.",
-      "lpa": 1.82,
-      "vpa": 14.321
+      "lpa": 1.83,
+      "vpa": 14.321,
+      "weekLow": 0.0,
+      "weekHigh": 14.85,
+      "pls": [
+        5.4754
+      ],
+      "pvpas": [
+        0.6997
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "RENT3",
       "nome": "Localiza Rent a Car S.A.",
       "lpa": 2.07,
-      "vpa": 24.024
+      "vpa": 24.024,
+      "weekLow": 0.0,
+      "weekHigh": 53.35,
+      "pls": [
+        20.8213
+      ],
+      "pvpas": [
+        1.794
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "SANB11",
       "nome": "Banco Santander (Brasil) S.A.",
       "lpa": 2.046,
-      "vpa": 33.762
+      "vpa": 33.762,
+      "weekLow": 0.0,
+      "weekHigh": 37.83,
+      "pls": [
+        12.8788
+      ],
+      "pvpas": [
+        0.7805
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "SAPR11",
       "nome": "Companhia de Saneamento do Paraná - SANEPAR",
       "lpa": 0.809,
-      "vpa": 42.021
+      "vpa": 42.021,
+      "weekLow": 0.0,
+      "weekHigh": 48.72,
+      "pls": [
+        46.2917
+      ],
+      "pvpas": [
+        0.8912
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "SAUD3",
       "nome": "Bradsaúde S.A.",
       "lpa": 1.04,
-      "vpa": 2.627
+      "vpa": 2.627,
+      "weekLow": 0.0,
+      "weekHigh": 16.57,
+      "pls": [
+        13.7308
+      ],
+      "pvpas": [
+        5.4359
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "SBFG3",
       "nome": "Grupo SBF S.A.",
       "lpa": 1.44,
-      "vpa": 14.297
+      "vpa": 14.297,
+      "weekLow": 0.0,
+      "weekHigh": 16.0,
+      "pls": [
+        7.4306
+      ],
+      "pvpas": [
+        0.7484
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "SBSP3",
       "nome": "Companhia de Saneamento Básico do Estado de São Paulo - SABESP",
       "lpa": 2.54,
-      "vpa": 12.462
+      "vpa": 12.462,
+      "weekLow": 0.0,
+      "weekHigh": 35.32,
+      "pls": [
+        11.6535
+      ],
+      "pvpas": [
+        2.3752
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "SIMH3",
       "nome": "SIMPAR S.A.",
       "lpa": -0.17,
-      "vpa": 9.969
+      "vpa": 9.969,
+      "weekLow": 0.0,
+      "weekHigh": 14.9,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "SLCE3",
       "nome": "SLC Agrícola S.A.",
       "lpa": 0.65,
-      "vpa": 10.698
+      "vpa": 10.698,
+      "weekLow": 0.0,
+      "weekHigh": 19.48,
+      "pls": [
+        20.2615
+      ],
+      "pvpas": [
+        1.2311
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "SMFT3",
       "nome": "Smartfit Escola de Ginástica e Dança S.A.",
       "lpa": 1.11,
-      "vpa": 9.615
+      "vpa": 9.615,
+      "weekLow": 0.0,
+      "weekHigh": 27.52,
+      "pls": [
+        17.4955
+      ],
+      "pvpas": [
+        2.0198
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "SMTO3",
       "nome": "São Martinho S.A.",
       "lpa": 2.53,
-      "vpa": 22.815
+      "vpa": 22.815,
+      "weekLow": 0.0,
+      "weekHigh": 21.7,
+      "pls": [
+        5.9447
+      ],
+      "pvpas": [
+        0.6592
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "SUZB3",
       "nome": "Suzano S.A.",
       "lpa": 9.19,
-      "vpa": 38.861
+      "vpa": 38.861,
+      "weekLow": 0.0,
+      "weekHigh": 59.65,
+      "pls": [
+        4.3645
+      ],
+      "pvpas": [
+        1.0321
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "TAEE11",
       "nome": "Transmissora Aliança de Energia Elétrica S.A.",
       "lpa": 1.01,
-      "vpa": 23.104
+      "vpa": 23.104,
+      "weekLow": 0.0,
+      "weekHigh": 46.11,
+      "pls": [
+        39.3267
+      ],
+      "pvpas": [
+        1.7192
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "TEND3",
       "nome": "Construtora Tenda S.A.",
       "lpa": 4.92,
-      "vpa": 11.078
+      "vpa": 11.078,
+      "weekLow": 0.0,
+      "weekHigh": 37.47,
+      "pls": [
+        7.4898
+      ],
+      "pvpas": [
+        3.3264
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "TIMS3",
       "nome": "TIM S.A.",
       "lpa": 1.79,
-      "vpa": 10.223
+      "vpa": 10.223,
+      "weekLow": 0.0,
+      "weekHigh": 28.74,
+      "pls": [
+        12.6983
+      ],
+      "pvpas": [
+        2.2234
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "TOTS3",
       "nome": "TOTVS S.A.",
       "lpa": 1.47,
-      "vpa": 8.688
+      "vpa": 8.688,
+      "weekLow": 0.0,
+      "weekHigh": 48.4,
+      "pls": [
+        19.517
+      ],
+      "pvpas": [
+        3.3023
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "TTEN3",
       "nome": "Três Tentos Agroindustrial S/A",
       "lpa": 1.4,
-      "vpa": 9.399
+      "vpa": 9.549,
+      "weekLow": 0.0,
+      "weekHigh": 17.9,
+      "pls": [
+        10.8214
+      ],
+      "pvpas": [
+        1.5866
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "UGPA3",
       "nome": "Ultrapar Participações S.A.",
       "lpa": 2.85,
-      "vpa": 15.411
+      "vpa": 15.411,
+      "weekLow": 0.0,
+      "weekHigh": 30.81,
+      "pls": [
+        8.9825
+      ],
+      "pvpas": [
+        1.6612
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "USIM5",
       "nome": "Usinas Siderúrgicas de Minas Gerais S.A.",
       "lpa": -2.13,
-      "vpa": 16.684
+      "vpa": 16.684,
+      "weekLow": 0.0,
+      "weekHigh": 12.18,
+      "pls": [],
+      "pvpas": [],
+      "lastQuarter": ""
     },
     {
       "codigo": "VALE3",
       "nome": "Vale S.A.",
-      "lpa": 3.41,
-      "vpa": 44.839
+      "lpa": 3.43,
+      "vpa": 44.839,
+      "weekLow": 0.0,
+      "weekHigh": 91.62,
+      "pls": [
+        22.7843
+      ],
+      "pvpas": [
+        1.7429
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "VAMO3",
       "nome": "Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
       "lpa": 0.29,
-      "vpa": 2.403
+      "vpa": 2.403,
+      "weekLow": 0.0,
+      "weekHigh": 4.94,
+      "pls": [
+        9.931
+      ],
+      "pvpas": [
+        1.1985
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "VBBR3",
       "nome": "Vibra Energia S.A.",
       "lpa": 2.57,
-      "vpa": 18.221
+      "vpa": 18.221,
+      "weekLow": 0.0,
+      "weekHigh": 34.2,
+      "pls": [
+        11.5525
+      ],
+      "pvpas": [
+        1.6294
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "VIVA3",
       "nome": "Vivara Participações S.A.",
       "lpa": 2.49,
-      "vpa": 12.548
+      "vpa": 12.891,
+      "weekLow": 0.0,
+      "weekHigh": 36.65,
+      "pls": [
+        9.4538
+      ],
+      "pvpas": [
+        1.8261
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "VIVT3",
       "nome": "Telefônica Brasil S.A.",
       "lpa": 1.97,
-      "vpa": 21.505
+      "vpa": 21.505,
+      "weekLow": 0.0,
+      "weekHigh": 43.47,
+      "pls": [
+        17.6599
+      ],
+      "pvpas": [
+        1.6178
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "VVEO3",
       "nome": "CM Hospitalar S/A",
       "lpa": 0.06,
-      "vpa": 6.134
+      "vpa": 6.134,
+      "weekLow": 0.0,
+      "weekHigh": 1.86,
+      "pls": [
+        12.8333
+      ],
+      "pvpas": [
+        0.1255
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "WEGE3",
       "nome": "WEG S.A.",
       "lpa": 1.5,
-      "vpa": 4.151
+      "vpa": 4.151,
+      "weekLow": 0.0,
+      "weekHigh": 54.53,
+      "pls": [
+        31.2667
+      ],
+      "pvpas": [
+        11.2985
+      ],
+      "lastQuarter": "2026-03-31"
     },
     {
       "codigo": "YDUQ3",
       "nome": "Yduqs Participações S.A.",
       "lpa": 0.44,
-      "vpa": 11.449
+      "vpa": 11.449,
+      "weekLow": 0.0,
+      "weekHigh": 16.79,
+      "pls": [
+        20.2273
+      ],
+      "pvpas": [
+        0.7774
+      ],
+      "lastQuarter": "2026-03-31"
     }
   ]
 }
