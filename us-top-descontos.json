@@ -1,0 +1,127 @@
+{
+  "atualizadoEm": "2026-07-02 21:14",
+  "topBG": [
+    {
+      "codigo": "VCIG",
+      "nome": "VCI Global Limited",
+      "lpa": 730.34,
+      "vpa": 7068.588
+    },
+    {
+      "codigo": "ONCO",
+      "nome": "Onconetix, Inc.",
+      "lpa": 1377.4,
+      "vpa": 42.635
+    },
+    {
+      "codigo": "NIVF",
+      "nome": "NewGenIvf Group Limited",
+      "lpa": 36.48,
+      "vpa": 110.503
+    },
+    {
+      "codigo": "BNBX",
+      "nome": "BNB Plus Corp.",
+      "lpa": 370.17,
+      "vpa": 2.207
+    },
+    {
+      "codigo": "PPCB",
+      "nome": "Propanc Biopharma, Inc.",
+      "lpa": 570.5,
+      "vpa": 11.24
+    },
+    {
+      "codigo": "IVF",
+      "nome": "INVO Fertility, Inc.",
+      "lpa": 248.92,
+      "vpa": 8.913
+    },
+    {
+      "codigo": "HKIT",
+      "nome": "Hitek Global Inc.",
+      "lpa": 3.0,
+      "vpa": 4.322
+    },
+    {
+      "codigo": "CHSN",
+      "nome": "Chanson International Holding",
+      "lpa": 3.0,
+      "vpa": 144.209
+    },
+    {
+      "codigo": "YHC",
+      "nome": "LQR House Inc.",
+      "lpa": 0.3,
+      "vpa": 1.33
+    },
+    {
+      "codigo": "ERNA",
+      "nome": "Ernexa Therapeutics Inc.",
+      "lpa": 1214.25,
+      "vpa": 5.882
+    }
+  ],
+  "topFL": [
+    {
+      "codigo": "VCIG",
+      "nome": "VCI Global Limited",
+      "lpa": 730.34,
+      "vpa": 7068.588
+    },
+    {
+      "codigo": "BRK.B",
+      "nome": "Berkshire Hathaway Inc. New",
+      "lpa": 33.58,
+      "vpa": 505559.44
+    },
+    {
+      "codigo": "FDXF",
+      "nome": "FedEx Freight Holding Company, ",
+      "lpa": 4.55,
+      "vpa": 95720.0
+    },
+    {
+      "codigo": "NIVF",
+      "nome": "NewGenIvf Group Limited",
+      "lpa": 36.48,
+      "vpa": 110.503
+    },
+    {
+      "codigo": "CHSN",
+      "nome": "Chanson International Holding",
+      "lpa": 3.0,
+      "vpa": 144.209
+    },
+    {
+      "codigo": "EC",
+      "nome": "Ecopetrol S.A.",
+      "lpa": 1.4,
+      "vpa": 1963.047
+    },
+    {
+      "codigo": "KSPI",
+      "nome": "Joint Stock Company Kaspi.kz - ",
+      "lpa": 11.15,
+      "vpa": 11908.487
+    },
+    {
+      "codigo": "TLK",
+      "nome": "PT Telekomunikasi Indonesia, Tb",
+      "lpa": 0.91,
+      "vpa": 1384.397
+    },
+    {
+      "codigo": "ONCO",
+      "nome": "Onconetix, Inc.",
+      "lpa": 1377.4,
+      "vpa": 42.635
+    },
+    {
+      "codigo": "CREG",
+      "nome": "Smart Powerr Corp.",
+      "lpa": 6.8,
+      "vpa": 64.336
+    }
+  ]
+}
