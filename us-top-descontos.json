@@ -1,34 +1,46 @@
 {
-  "atualizadoEm": "2026-07-02 21:14",
+  "atualizadoEm": "2026-07-10 01:22",
   "topBG": [
     {
       "codigo": "VCIG",
       "nome": "VCI Global Limited",
-      "lpa": 730.34,
+      "lpa": 707.51,
       "vpa": 7068.588
     },
     {
       "codigo": "ONCO",
       "nome": "Onconetix, Inc.",
-      "lpa": 1377.4,
+      "lpa": 1430.71,
       "vpa": 42.635
     },
     {
       "codigo": "NIVF",
       "nome": "NewGenIvf Group Limited",
-      "lpa": 36.48,
-      "vpa": 110.503
+      "lpa": 109.44,
+      "vpa": 331.51
     },
     {
       "codigo": "BNBX",
       "nome": "BNB Plus Corp.",
-      "lpa": 370.17,
+      "lpa": 401.1,
       "vpa": 2.207
+    },
+    {
+      "codigo": "CETX",
+      "nome": "Cemtrex Inc.",
+      "lpa": 544.22,
+      "vpa": 34.585
+    },
+    {
+      "codigo": "DCX",
+      "nome": "Digital Currency X Technology I",
+      "lpa": 408.03,
+      "vpa": 7.717
     },
     {
       "codigo": "PPCB",
       "nome": "Propanc Biopharma, Inc.",
-      "lpa": 570.5,
+      "lpa": 547.31,
       "vpa": 11.24
     },
     {
@@ -38,59 +50,47 @@
       "vpa": 8.913
     },
     {
-      "codigo": "HKIT",
-      "nome": "Hitek Global Inc.",
-      "lpa": 3.0,
-      "vpa": 4.322
-    },
-    {
       "codigo": "CHSN",
       "nome": "Chanson International Holding",
-      "lpa": 3.0,
+      "lpa": 2.99,
       "vpa": 144.209
     },
     {
       "codigo": "YHC",
       "nome": "LQR House Inc.",
-      "lpa": 0.3,
+      "lpa": 0.24,
       "vpa": 1.33
-    },
-    {
-      "codigo": "ERNA",
-      "nome": "Ernexa Therapeutics Inc.",
-      "lpa": 1214.25,
-      "vpa": 5.882
     }
   ],
   "topFL": [
     {
       "codigo": "VCIG",
       "nome": "VCI Global Limited",
-      "lpa": 730.34,
+      "lpa": 707.51,
       "vpa": 7068.588
     },
     {
       "codigo": "BRK.B",
       "nome": "Berkshire Hathaway Inc. New",
-      "lpa": 33.58,
+      "lpa": 33.64,
       "vpa": 505559.44
     },
     {
       "codigo": "FDXF",
       "nome": "FedEx Freight Holding Company, ",
-      "lpa": 4.55,
+      "lpa": 4.56,
       "vpa": 95720.0
     },
     {
       "codigo": "NIVF",
       "nome": "NewGenIvf Group Limited",
-      "lpa": 36.48,
-      "vpa": 110.503
+      "lpa": 109.44,
+      "vpa": 331.51
     },
     {
       "codigo": "CHSN",
       "nome": "Chanson International Holding",
-      "lpa": 3.0,
+      "lpa": 2.99,
       "vpa": 144.209
     },
     {
@@ -100,27 +100,27 @@
       "vpa": 1963.047
     },
     {
-      "codigo": "KSPI",
-      "nome": "Joint Stock Company Kaspi.kz - ",
-      "lpa": 11.15,
-      "vpa": 11908.487
-    },
-    {
       "codigo": "TLK",
       "nome": "PT Telekomunikasi Indonesia, Tb",
       "lpa": 0.91,
       "vpa": 1384.397
     },
     {
+      "codigo": "YHC",
+      "nome": "LQR House Inc.",
+      "lpa": 0.24,
+      "vpa": 1.33
+    },
+    {
       "codigo": "ONCO",
       "nome": "Onconetix, Inc.",
-      "lpa": 1377.4,
+      "lpa": 1430.71,
       "vpa": 42.635
     },
     {
       "codigo": "CREG",
       "nome": "Smart Powerr Corp.",
-      "lpa": 6.8,
+      "lpa": 6.39,
       "vpa": 64.336
     }
   ]
