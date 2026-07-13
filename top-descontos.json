@@ -1,10 +1,10 @@
 {
-  "atualizadoEm": "2026-06-28 13:57",
+  "atualizadoEm": "2026-07-12 22:38",
   "topBG": [
     {
       "codigo": "LIGT3",
       "nome": "Light S.A.",
-      "lpa": 1.9,
+      "lpa": 3.8,
       "vpa": 22.341
     },
     {
@@ -20,13 +20,13 @@
       "vpa": 16.043
     },
     {
-      "codigo": "BSLI3",
+      "codigo": "BSLI4",
       "nome": "BRB - Banco de Brasília S.A.",
       "lpa": 2.02,
       "vpa": 8.196
     },
     {
-      "codigo": "BSLI4",
+      "codigo": "BSLI3",
       "nome": "BRB - Banco de Brasília S.A.",
       "lpa": 2.02,
       "vpa": 8.196
@@ -44,22 +44,22 @@
       "vpa": 2.831
     },
     {
-      "codigo": "IGTI3",
-      "nome": "Iguatemi S.A.",
-      "lpa": 0.58,
-      "vpa": 16.46
-    },
-    {
-      "codigo": "ETER3",
-      "nome": "Eternit S.A.",
-      "lpa": 0.77,
-      "vpa": 13.449
+      "codigo": "VVEO3",
+      "nome": "CM Hospitalar S/A",
+      "lpa": 0.06,
+      "vpa": 5.955
     },
     {
       "codigo": "HBRE3",
       "nome": "HBR Realty Empreendimentos Imobiliários S.A.",
       "lpa": 0.29,
       "vpa": 17.578
+    },
+    {
+      "codigo": "IGTI3",
+      "nome": "Iguatemi S.A.",
+      "lpa": 0.58,
+      "vpa": 16.46
     }
   ],
   "topFL": [
@@ -70,22 +70,16 @@
       "vpa": 62.544
     },
     {
+      "codigo": "VVEO3",
+      "nome": "CM Hospitalar S/A",
+      "lpa": 0.06,
+      "vpa": 5.955
+    },
+    {
       "codigo": "HAPV3",
       "nome": "Hapvida Participações e Investimentos S.A.",
       "lpa": -0.87,
       "vpa": 101.36
-    },
-    {
-      "codigo": "VVEO3",
-      "nome": "CM Hospitalar S/A",
-      "lpa": 0.06,
-      "vpa": 6.134
-    },
-    {
-      "codigo": "TOKY3",
-      "nome": "GRUPO TOKY  ON      NM",
-      "lpa": -2.84,
-      "vpa": 2.044
     },
     {
       "codigo": "HBRE3",
@@ -96,14 +90,20 @@
     {
       "codigo": "LIGT3",
       "nome": "Light S.A.",
-      "lpa": 1.9,
+      "lpa": 3.8,
       "vpa": 22.341
     },
     {
-      "codigo": "FICT3",
-      "nome": "Fictor Alimentos S.A.",
-      "lpa": -0.8,
-      "vpa": 1.352
+      "codigo": "AZTE3",
+      "nome": "Azevedo & Travassos Energia S.A.",
+      "lpa": -0.19,
+      "vpa": 7.241
+    },
+    {
+      "codigo": "WEST3",
+      "nome": "Westwing Comércio Varejista S.A.",
+      "lpa": -0.19,
+      "vpa": 19.758
     },
     {
       "codigo": "SAPR4",
@@ -112,16 +112,16 @@
       "vpa": 42.021
     },
     {
-      "codigo": "AMER3",
-      "nome": "Americanas S.A.",
-      "lpa": 2.63,
-      "vpa": 22.123
-    },
-    {
       "codigo": "HBOR3",
       "nome": "Helbor Empreendimentos S.A.",
       "lpa": 0.04,
       "vpa": 10.91
+    },
+    {
+      "codigo": "AMER3",
+      "nome": "Americanas S.A.",
+      "lpa": 2.63,
+      "vpa": 22.123
     }
   ]
 }
