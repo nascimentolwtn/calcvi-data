@@ -1,12 +1,12 @@
 {
-  "atualizadoEm": "2026-07-12 22:39",
+  "atualizadoEm": "2026-07-13 20:43",
   "stocks": [
     {
       "codigo": "ABEV3",
       "nome": "Ambev S.A.",
       "lpa": 0.99,
       "vpa": 5.779,
-      "weekLow": 0.0,
+      "weekLow": 11.68,
       "weekHigh": 17.04,
       "pls": [
         11.7904,
@@ -48,7 +48,7 @@
       "nome": "Allos S.A.",
       "lpa": 1.66,
       "vpa": 25.972,
-      "weekLow": 0.0,
+      "weekLow": 20.93,
       "weekHigh": 34.17,
       "pls": [
         29.6036,
@@ -81,7 +81,7 @@
       "nome": "Ambipar Participações e Empreendimentos S.A.",
       "lpa": -0.06,
       "vpa": 0.656,
-      "weekLow": 0.0,
+      "weekLow": 0.14,
       "weekHigh": 19.38,
       "pls": [
         18.4676,
@@ -102,7 +102,7 @@
       "nome": "Ânima Holding S.A.",
       "lpa": 0.36,
       "vpa": 6.322,
-      "weekLow": 0.0,
+      "weekLow": 2.51,
       "weekHigh": 5.39,
       "pls": [
         7.6111
@@ -117,7 +117,7 @@
       "nome": "Armac Locação, Logística e Serviços S.A.",
       "lpa": 0.14,
       "vpa": 3.688,
-      "weekLow": 0.0,
+      "weekLow": 2.71,
       "weekHigh": 6.3,
       "pls": [
         13.7795,
@@ -144,7 +144,7 @@
       "nome": "Sendas Distribuidora S.A.",
       "lpa": 0.37,
       "vpa": 4.388,
-      "weekLow": 0.0,
+      "weekLow": 6.91,
       "weekHigh": 10.76,
       "pls": [
         12.9853
@@ -159,7 +159,7 @@
       "nome": "Auren Energia S.A.",
       "lpa": -1.24,
       "vpa": 11.402,
-      "weekLow": 0.0,
+      "weekLow": 8.78,
       "weekHigh": 14.66,
       "pls": [
         11.6522,
@@ -186,7 +186,7 @@
       "nome": "AXIA Energia SA",
       "lpa": 4.4,
       "vpa": 42.66,
-      "weekLow": 0.0,
+      "weekLow": 37.42,
       "weekHigh": 67.84,
       "pls": [
         65.3209,
@@ -219,7 +219,7 @@
       "nome": "Azevedo & Travassos S.A.",
       "lpa": -20.51,
       "vpa": 3.801,
-      "weekLow": 0.0,
+      "weekLow": 1.17,
       "weekHigh": 13.4,
       "pls": [],
       "pvpas": [],
@@ -230,7 +230,7 @@
       "nome": "Azevedo & Travassos Energia S.A.",
       "lpa": -0.19,
       "vpa": 7.241,
-      "weekLow": 0.0,
+      "weekLow": 1.05,
       "weekHigh": 7.6,
       "pls": [],
       "pvpas": [],
@@ -241,7 +241,7 @@
       "nome": "Azzas 2154 S.A.",
       "lpa": 4.05,
       "vpa": 39.634,
-      "weekLow": 0.0,
+      "weekLow": 16.1,
       "weekHigh": 38.49,
       "pls": [
         21.5505,
@@ -280,7 +280,7 @@
       "nome": "B3 S.A. - Brasil, Bolsa, Balcão",
       "lpa": 0.92,
       "vpa": 3.643,
-      "weekLow": 0.0,
+      "weekLow": 12.12,
       "weekHigh": 20.33,
       "pls": [
         16.1579,
@@ -322,7 +322,7 @@
       "nome": "Banco do Brasil S.A.",
       "lpa": 2.22,
       "vpa": 32.546,
-      "weekLow": 0.0,
+      "weekLow": 18.12,
       "weekHigh": 27.81,
       "pls": [
         4.3711,
@@ -349,7 +349,7 @@
       "nome": "Banco Bradesco S.A.",
       "lpa": 2.1,
       "vpa": 17.006,
-      "weekLow": 0.0,
+      "weekLow": 13.14,
       "weekHigh": 18.98,
       "pls": [
         5.95,
@@ -382,7 +382,7 @@
       "nome": "Banco Bradesco S.A.",
       "lpa": 2.1,
       "vpa": 17.006,
-      "weekLow": 0.0,
+      "weekLow": 15.27,
       "weekHigh": 22.12,
       "pls": [
         6.0254,
@@ -415,8 +415,8 @@
       "nome": "BB Seguridade Participações S.A.",
       "lpa": 4.74,
       "vpa": 6.512,
-      "weekLow": 0.0,
-      "weekHigh": 40.39,
+      "weekLow": 31.53,
+      "weekHigh": 40.42,
       "pls": [
         6.3578,
         5.9698,
@@ -457,7 +457,7 @@
       "nome": "Minerva S.A.",
       "lpa": 0.47,
       "vpa": 1.276,
-      "weekLow": 0.0,
+      "weekLow": 3.41,
       "weekHigh": 7.58,
       "pls": [
         10.6939,
@@ -490,7 +490,7 @@
       "nome": "Grupo Casas Bahia S.A.",
       "lpa": -6.18,
       "vpa": 2.719,
-      "weekLow": 0.0,
+      "weekLow": 0.99,
       "weekHigh": 5.48,
       "pls": [],
       "pvpas": [],
@@ -501,7 +501,7 @@
       "nome": "Banco BTG Pactual S.A.",
       "lpa": 0.614,
       "vpa": 15.456,
-      "weekLow": 0.0,
+      "weekLow": 38.09,
       "weekHigh": 65.5,
       "pls": [
         89.0228
@@ -516,7 +516,7 @@
       "nome": "Bradespar S.A.",
       "lpa": 1.87,
       "vpa": 19.903,
-      "weekLow": 0.0,
+      "weekLow": 15.46,
       "weekHigh": 25.63,
       "pls": [
         11.877
@@ -531,7 +531,7 @@
       "nome": "Brava Energia S.A.",
       "lpa": 0.49,
       "vpa": 24.562,
-      "weekLow": 0.0,
+      "weekLow": 13.29,
       "weekHigh": 22.28,
       "pls": [
         1.7954,
@@ -558,7 +558,7 @@
       "nome": "Braskem S.A.",
       "lpa": -11.45,
       "vpa": -19.745,
-      "weekLow": 0.0,
+      "weekLow": 5.83,
       "weekHigh": 13.78,
       "pls": [],
       "pvpas": [],
@@ -569,7 +569,7 @@
       "nome": "Banco do Estado do Rio Grande do Sul S.A.",
       "lpa": 4.31,
       "vpa": 27.687,
-      "weekLow": 0.0,
+      "weekLow": 10.5,
       "weekHigh": 19.2,
       "pls": [
         5.8665,
@@ -611,7 +611,7 @@
       "nome": "Companhia Brasileira de Alumínio",
       "lpa": 0.19,
       "vpa": 7.112,
-      "weekLow": 0.0,
+      "weekLow": 2.74,
       "weekHigh": 10.85,
       "pls": [
         0.0026,
@@ -635,7 +635,7 @@
       "nome": "C&A Modas S.A.",
       "lpa": 1.88,
       "vpa": 12.246,
-      "weekLow": 0.0,
+      "weekLow": 9.44,
       "weekHigh": 18.82,
       "pls": [
         10.5873,
@@ -677,7 +677,7 @@
       "nome": "Companhia Energética de Minas Gerais - CEMIG",
       "lpa": 1.71,
       "vpa": 10.098,
-      "weekLow": 0.0,
+      "weekLow": 10.09,
       "weekHigh": 13.87,
       "pls": [
         3.3746,
@@ -716,7 +716,7 @@
       "nome": "CSN Mineração S.A.",
       "lpa": 0.41,
       "vpa": 1.303,
-      "weekLow": 0.0,
+      "weekLow": 4.08,
       "weekHigh": 6.56,
       "pls": [
         10.3659
@@ -731,7 +731,7 @@
       "nome": "Cogna Educação S.A.",
       "lpa": 0.34,
       "vpa": 6.816,
-      "weekLow": 0.0,
+      "weekLow": 2.14,
       "weekHigh": 4.75,
       "pls": [
         6.7647
@@ -746,7 +746,7 @@
       "nome": "CPFL Energia S.A.",
       "lpa": 5.0,
       "vpa": 21.087,
-      "weekLow": 0.0,
+      "weekLow": 37.01,
       "weekHigh": 57.21,
       "pls": [
         5.5592,
@@ -788,7 +788,7 @@
       "nome": "Companhia Paranaense de Energia - COPEL",
       "lpa": 0.91,
       "vpa": 8.024,
-      "weekLow": 0.0,
+      "weekLow": 10.66,
       "weekHigh": 17.13,
       "pls": [
         11.328,
@@ -830,7 +830,7 @@
       "nome": "Cosan S.A.",
       "lpa": -3.34,
       "vpa": 0.892,
-      "weekLow": 0.0,
+      "weekLow": 3.2,
       "weekHigh": 8.03,
       "pls": [],
       "pvpas": [],
@@ -841,8 +841,8 @@
       "nome": "Companhia de Saneamento de Minas Gerais",
       "lpa": 3.57,
       "vpa": 23.126,
-      "weekLow": 0.0,
-      "weekHigh": 67.57,
+      "weekLow": 24.26,
+      "weekHigh": 67.82,
       "pls": [
         4.9184,
         5.3917,
@@ -883,7 +883,7 @@
       "nome": "Companhia Siderúrgica Nacional",
       "lpa": -1.51,
       "vpa": 9.69,
-      "weekLow": 0.0,
+      "weekLow": 4.49,
       "weekHigh": 11.32,
       "pls": [],
       "pvpas": [],
@@ -894,7 +894,7 @@
       "nome": "Cury Construtora e Incorporadora S.A.",
       "lpa": 3.58,
       "vpa": 5.014,
-      "weekLow": 0.0,
+      "weekLow": 28.11,
       "weekHigh": 41.76,
       "pls": [
         8.091,
@@ -936,7 +936,7 @@
       "nome": "CVC Brasil Operadora e Agência de Viagens S.A.",
       "lpa": -0.2,
       "vpa": 0.771,
-      "weekLow": 0.0,
+      "weekLow": 1.2,
       "weekHigh": 2.79,
       "pls": [
         16.9337,
@@ -957,8 +957,8 @@
       "nome": "Caixa Seguridade Participações S.A.",
       "lpa": 1.46,
       "vpa": 4.591,
-      "weekLow": 0.0,
-      "weekHigh": 22.13,
+      "weekLow": 13.17,
+      "weekHigh": 22.15,
       "pls": [
         11.2501,
         13.9752,
@@ -999,7 +999,7 @@
       "nome": "Cyrela Brazil Realty S.A. Empreendimentos e Participações",
       "lpa": 4.5,
       "vpa": 24.374,
-      "weekLow": 0.0,
+      "weekLow": 19.76,
       "weekHigh": 39.06,
       "pls": [
         7.5073,
@@ -1041,7 +1041,7 @@
       "nome": "Direcional Engenharia S.A.",
       "lpa": 1.59,
       "vpa": 4.093,
-      "weekLow": 0.0,
+      "weekLow": 12.15,
       "weekHigh": 19.04,
       "pls": [
         1.8804,
@@ -1083,7 +1083,7 @@
       "nome": "EcoRodovias Infraestrutura e Logística S.A.",
       "lpa": 1.07,
       "vpa": 5.884,
-      "weekLow": 0.0,
+      "weekLow": 6.33,
       "weekHigh": 12.38,
       "pls": [
         5.4907,
@@ -1122,7 +1122,7 @@
       "nome": "Engie Brasil Energia S.A.",
       "lpa": 2.25,
       "vpa": 11.907,
-      "weekLow": 0.0,
+      "weekLow": 27.51,
       "weekHigh": 39.36,
       "pls": [
         3.082,
@@ -1161,7 +1161,7 @@
       "nome": "Embraer S.A.",
       "lpa": 2.21,
       "vpa": 24.147,
-      "weekLow": 0.0,
+      "weekLow": 65.06,
       "weekHigh": 105.5,
       "pls": [
         42.286,
@@ -1200,29 +1200,20 @@
       "nome": "Eneva S.A.",
       "lpa": 0.6,
       "vpa": 10.637,
-      "weekLow": 0.0,
+      "weekLow": 13.0,
       "weekHigh": 28.12,
       "pls": [
-        4.7127,
-        162.2909,
-        14.8573,
-        11.8361,
-        22.7037
+        8.7466,
+        22.5649
       ],
       "pvpas": [
-        0.0013,
-        0.0015,
-        0.0012,
-        0.002,
-        0.0023
+        1.3383,
+        1.5971
       ],
       "lastQuarter": "2026-03-31",
       "periods": [
-        "Q2 24",
-        "Q3 24",
-        "Q1 25",
-        "Q4 25",
-        "Q1 26"
+        "Q2 25",
+        "Q3 25"
       ]
     },
     {
@@ -1230,7 +1221,7 @@
       "nome": "Energisa S.A.",
       "lpa": 1.38,
       "vpa": 51.403,
-      "weekLow": 0.0,
+      "weekLow": 40.5,
       "weekHigh": 59.25,
       "pls": [
         34.4928
@@ -1245,7 +1236,7 @@
       "nome": "Enjoei S.A.",
       "lpa": -0.09,
       "vpa": 1.448,
-      "weekLow": 0.0,
+      "weekLow": 0.73,
       "weekHigh": 1.34,
       "pls": [
         0.7238,
@@ -1269,7 +1260,7 @@
       "nome": "Equatorial S.A.",
       "lpa": 0.94,
       "vpa": 20.43,
-      "weekLow": 0.0,
+      "weekLow": 33.16,
       "weekHigh": 46.32,
       "pls": [
         23.7063,
@@ -1290,7 +1281,7 @@
       "nome": "Even Construtora e Incorporadora S.A.",
       "lpa": 1.99,
       "vpa": 9.843,
-      "weekLow": 0.0,
+      "weekLow": 5.23,
       "weekHigh": 9.17,
       "pls": [
         4.9822,
@@ -1314,7 +1305,7 @@
       "nome": "EZTEC Empreendimentos e Participações S.A.",
       "lpa": 2.1,
       "vpa": 18.569,
-      "weekLow": 0.0,
+      "weekLow": 10.12,
       "weekHigh": 16.72,
       "pls": [
         10.4768,
@@ -1356,7 +1347,7 @@
       "nome": "Fleury S.A.",
       "lpa": 1.16,
       "vpa": 9.533,
-      "weekLow": 0.0,
+      "weekLow": 12.53,
       "weekHigh": 18.1,
       "pls": [
         13.4569
@@ -1371,7 +1362,7 @@
       "nome": "Gafisa S.A.",
       "lpa": -74.47,
       "vpa": 62.544,
-      "weekLow": 0.0,
+      "weekLow": 0.57,
       "weekHigh": 19.99,
       "pls": [
         118.5714,
@@ -1398,7 +1389,7 @@
       "nome": "Gerdau S.A.",
       "lpa": 0.83,
       "vpa": 26.822,
-      "weekLow": 0.0,
+      "weekLow": 15.81,
       "weekHigh": 24.65,
       "pls": [
         4.3773,
@@ -1437,7 +1428,7 @@
       "nome": "GPS Participações e Empreendimentos S.A.",
       "lpa": 0.94,
       "vpa": 5.479,
-      "weekLow": 0.0,
+      "weekLow": 11.12,
       "weekHigh": 19.65,
       "pls": [
         22.0188,
@@ -1479,7 +1470,7 @@
       "nome": "Grupo Mateus S.A.",
       "lpa": 0.79,
       "vpa": 4.755,
-      "weekLow": 0.0,
+      "weekLow": 3.43,
       "weekHigh": 7.98,
       "pls": [
         18.6752,
@@ -1521,7 +1512,7 @@
       "nome": "Metalurgica Gerdau S.A.",
       "lpa": 0.37,
       "vpa": 14.278,
-      "weekLow": 0.0,
+      "weekLow": 6.6,
       "weekHigh": 10.77,
       "pls": [
         2.6683,
@@ -1560,7 +1551,7 @@
       "nome": "Grendene S.A.",
       "lpa": 0.7,
       "vpa": 3.518,
-      "weekLow": 0.0,
+      "weekLow": 3.68,
       "weekHigh": 5.68,
       "pls": [
         6.9118,
@@ -1602,7 +1593,7 @@
       "nome": "Hapvida Participações e Investimentos S.A.",
       "lpa": -0.87,
       "vpa": 101.36,
-      "weekLow": 0.0,
+      "weekLow": 7.0,
       "weekHigh": 42.66,
       "pls": [
         1387.5,
@@ -1623,7 +1614,7 @@
       "nome": "Hidrovias do Brasil S.A.",
       "lpa": 0.01,
       "vpa": 1.474,
-      "weekLow": 0.0,
+      "weekLow": 2.91,
       "weekHigh": 4.39,
       "pls": [
         18.2787,
@@ -1647,7 +1638,7 @@
       "nome": "Hypera S.A.",
       "lpa": 2.62,
       "vpa": 22.284,
-      "weekLow": 0.0,
+      "weekLow": 19.88,
       "weekHigh": 28.35,
       "pls": [
         11.8924,
@@ -1686,7 +1677,7 @@
       "nome": "Iguatemi S.A.",
       "lpa": 0.163,
       "vpa": 16.46,
-      "weekLow": 0.0,
+      "weekLow": 20.46,
       "weekHigh": 30.62,
       "pls": [
         157.0552
@@ -1701,7 +1692,7 @@
       "nome": "Intelbras S.A. - Indústria de Telecomunicação Eletrônica Brasileira",
       "lpa": 1.76,
       "vpa": 9.607,
-      "weekLow": 0.0,
+      "weekLow": 10.49,
       "weekHigh": 15.97,
       "pls": [
         9.9364,
@@ -1743,7 +1734,7 @@
       "nome": "ISA Energía Brasil S.A.",
       "lpa": 3.56,
       "vpa": 32.519,
-      "weekLow": 0.0,
+      "weekLow": 20.99,
       "weekHigh": 32.19,
       "pls": [
         5.3747,
@@ -1785,7 +1776,7 @@
       "nome": "Itaúsa S.A.",
       "lpa": 1.52,
       "vpa": 8.045,
-      "weekLow": 0.0,
+      "weekLow": 9.96,
       "weekHigh": 15.24,
       "pls": [
         5.859,
@@ -1827,7 +1818,7 @@
       "nome": "Itaú Unibanco Holding S.A.",
       "lpa": 4.12,
       "vpa": 19.027,
-      "weekLow": 0.0,
+      "weekLow": 29.61,
       "weekHigh": 47.8,
       "pls": [
         5.4355,
@@ -1869,7 +1860,7 @@
       "nome": "Itaú Unibanco Holding S.A.",
       "lpa": 4.12,
       "vpa": 19.027,
-      "weekLow": 0.0,
+      "weekLow": 33.16,
       "weekHigh": 49.67,
       "pls": [
         6.4049,
@@ -1911,7 +1902,7 @@
       "nome": "JHSF Participações S.A.",
       "lpa": 3.16,
       "vpa": 10.592,
-      "weekLow": 0.0,
+      "weekLow": 4.91,
       "weekHigh": 14.5,
       "pls": [
         4.8301,
@@ -1953,7 +1944,7 @@
       "nome": "Klabin S.A.",
       "lpa": 0.661,
       "vpa": 7.363,
-      "weekLow": 0.0,
+      "weekLow": 16.1,
       "weekHigh": 21.25,
       "pls": [
         25.6581
@@ -1968,7 +1959,7 @@
       "nome": "Klabin S.A.",
       "lpa": 0.08,
       "vpa": 7.363,
-      "weekLow": 0.0,
+      "weekLow": 3.23,
       "weekHigh": 4.24,
       "pls": [
         42.875
@@ -1983,7 +1974,7 @@
       "nome": "Klabin S.A.",
       "lpa": 0.08,
       "vpa": 7.363,
-      "weekLow": 0.0,
+      "weekLow": 3.24,
       "weekHigh": 4.21,
       "pls": [
         42.5
@@ -1998,7 +1989,7 @@
       "nome": "Light S.A.",
       "lpa": 3.8,
       "vpa": 22.341,
-      "weekLow": 0.0,
+      "weekLow": 2.41,
       "weekHigh": 7.6,
       "pls": [
         4.2381,
@@ -2028,7 +2019,7 @@
       "nome": "Lojas Quero-Quero S.A.",
       "lpa": -0.93,
       "vpa": 1.659,
-      "weekLow": 0.0,
+      "weekLow": 1.17,
       "weekHigh": 2.87,
       "pls": [
         4.8053,
@@ -2049,7 +2040,7 @@
       "nome": "Lojas Renner S.A.",
       "lpa": 1.48,
       "vpa": 10.617,
-      "weekLow": 0.0,
+      "weekLow": 12.43,
       "weekHigh": 18.72,
       "pls": [
         23.4627,
@@ -2091,7 +2082,7 @@
       "nome": "Locaweb Serviços de Internet S.A.",
       "lpa": -0.4,
       "vpa": 4.273,
-      "weekLow": 0.0,
+      "weekLow": 3.28,
       "weekHigh": 5.09,
       "pls": [
         33.4291,
@@ -2127,7 +2118,7 @@
       "nome": "MBRF Global Foods Company S.A.",
       "lpa": 0.33,
       "vpa": 8.152,
-      "weekLow": 0.0,
+      "weekLow": 14.59,
       "weekHigh": 27.66,
       "pls": [
         51.8182
@@ -2142,7 +2133,7 @@
       "nome": "Magazine Luiza S.A.",
       "lpa": 0.18,
       "vpa": 14.56,
-      "weekLow": 0.0,
+      "weekLow": 4.03,
       "weekHigh": 11.55,
       "pls": [
         1030.4489,
@@ -2178,7 +2169,7 @@
       "nome": "Mills Locação, Serviços e Logística S.A.",
       "lpa": 1.8,
       "vpa": 7.817,
-      "weekLow": 0.0,
+      "weekLow": 10.8,
       "weekHigh": 15.96,
       "pls": [
         9.9117,
@@ -2220,7 +2211,7 @@
       "nome": "Grupo Multi S.A.",
       "lpa": 0.22,
       "vpa": 3.826,
-      "weekLow": 0.0,
+      "weekLow": 0.83,
       "weekHigh": 1.86,
       "pls": [
         215.8041,
@@ -2247,7 +2238,7 @@
       "nome": "Motiva Infraestrutura de Mobilidade S.A.",
       "lpa": 1.47,
       "vpa": 8.124,
-      "weekLow": 0.0,
+      "weekLow": 12.07,
       "weekHigh": 17.81,
       "pls": [
         19.236,
@@ -2289,7 +2280,7 @@
       "nome": "Movida Participações S.A.",
       "lpa": 1.05,
       "vpa": 9.044,
-      "weekLow": 0.0,
+      "weekLow": 5.77,
       "weekHigh": 14.97,
       "pls": [
         13.8529,
@@ -2325,7 +2316,7 @@
       "nome": "MRV Engenharia e Participações S.A.",
       "lpa": -1.35,
       "vpa": 9.265,
-      "weekLow": 0.0,
+      "weekLow": 4.74,
       "weekHigh": 10.53,
       "pls": [
         12.048,
@@ -2346,7 +2337,7 @@
       "nome": "Multiplan Empreendimentos Imobiliários S.A.",
       "lpa": 2.47,
       "vpa": 13.204,
-      "weekLow": 0.0,
+      "weekLow": 24.73,
       "weekHigh": 35.96,
       "pls": [
         12.5469,
@@ -2376,7 +2367,7 @@
       "nome": "Natura Cosméticos S.A.",
       "lpa": -0.17,
       "vpa": 9.069,
-      "weekLow": 0.0,
+      "weekLow": 7.13,
       "weekHigh": 11.15,
       "pls": [],
       "pvpas": [],
@@ -2387,7 +2378,7 @@
       "nome": "Oi S.A.",
       "lpa": -81.95,
       "vpa": -47.877,
-      "weekLow": 0.0,
+      "weekLow": 0.04,
       "weekHigh": 0.66,
       "pls": [],
       "pvpas": [],
@@ -2398,7 +2389,7 @@
       "nome": "Oncoclínicas do Brasil Serviços Médicos S.A.",
       "lpa": -4.34,
       "vpa": 0.477,
-      "weekLow": 0.0,
+      "weekLow": 0.63,
       "weekHigh": 6.0,
       "pls": [],
       "pvpas": [],
@@ -2409,7 +2400,7 @@
       "nome": "Compass Gas e Energia S.A.",
       "lpa": 1.73,
       "vpa": 8.019,
-      "weekLow": 0.0,
+      "weekLow": 23.88,
       "weekHigh": 28.35,
       "pls": [
         14.4162
@@ -2423,8 +2414,8 @@
       "codigo": "PCAR3",
       "nome": "Companhia Brasileira De Distribuicao",
       "lpa": -3.88,
-      "vpa": 4.292,
-      "weekLow": 0.0,
+      "vpa": 1.349,
+      "weekLow": 1.4,
       "weekHigh": 4.6,
       "pls": [],
       "pvpas": [],
@@ -2435,7 +2426,7 @@
       "nome": "Petróleo Brasileiro S.A. - Petrobras",
       "lpa": 8.13,
       "vpa": 34.541,
-      "weekLow": 0.0,
+      "weekLow": 30.96,
       "weekHigh": 56.14,
       "pls": [
         3.7999,
@@ -2471,7 +2462,7 @@
       "nome": "Petróleo Brasileiro S.A. - Petrobras",
       "lpa": 8.13,
       "vpa": 34.541,
-      "weekLow": 0.0,
+      "weekLow": 29.31,
       "weekHigh": 50.69,
       "pls": [
         3.6269,
@@ -2507,7 +2498,7 @@
       "nome": "Empreendimentos Pague Menos S.A.",
       "lpa": 0.49,
       "vpa": 4.655,
-      "weekLow": 0.0,
+      "weekLow": 3.24,
       "weekHigh": 7.62,
       "pls": [
         3.8603,
@@ -2540,7 +2531,7 @@
       "nome": "Plano & Plano Desenvolvimento Imobiliário S.A.",
       "lpa": 1.68,
       "vpa": 5.245,
-      "weekLow": 0.0,
+      "weekLow": 7.52,
       "weekHigh": 18.02,
       "pls": [
         5.0833
@@ -2555,7 +2546,7 @@
       "nome": "Paranapanema S.A.",
       "lpa": -12.63,
       "vpa": -62.586,
-      "weekLow": 0.0,
+      "weekLow": 0.21,
       "weekHigh": 1.8,
       "pls": [],
       "pvpas": [],
@@ -2566,7 +2557,7 @@
       "nome": "Marcopolo S.A.",
       "lpa": 1.0,
       "vpa": 3.272,
-      "weekLow": 0.0,
+      "weekLow": 5.46,
       "weekHigh": 9.02,
       "pls": [
         4.1787,
@@ -2608,7 +2599,7 @@
       "nome": "Positivo Tecnologia S.A.",
       "lpa": 0.07,
       "vpa": 11.183,
-      "weekLow": 0.0,
+      "weekLow": 3.3,
       "weekHigh": 4.8,
       "pls": [
         4.7974,
@@ -2635,7 +2626,7 @@
       "nome": "Prio S.A.",
       "lpa": 3.3,
       "vpa": 32.98,
-      "weekLow": 0.0,
+      "weekLow": 34.18,
       "weekHigh": 72.98,
       "pls": [
         9.7667,
@@ -2674,35 +2665,20 @@
       "nome": "Porto Seguro S.A.",
       "lpa": 5.68,
       "vpa": 24.263,
-      "weekLow": 0.0,
+      "weekLow": 45.09,
       "weekHigh": 57.21,
       "pls": [
-        6.7148,
-        7.0789,
-        7.7871,
-        7.2741,
-        9.6405,
-        9.2619,
-        8.9599
+        7.5007,
+        7.0301
       ],
       "pvpas": [
-        0.0014,
-        0.0016,
-        0.0015,
-        0.0017,
-        0.0023,
-        0.002,
-        0.0019
+        1.3686,
+        2.0256
       ],
       "lastQuarter": "2026-03-31",
       "periods": [
-        "Q1 24",
-        "Q3 24",
-        "Q4 24",
-        "Q1 25",
-        "Q2 25",
-        "Q3 25",
-        "Q4 25"
+        "Q2 24",
+        "Q1 26"
       ]
     },
     {
@@ -2710,7 +2686,7 @@
       "nome": "Qualicorp Consultoria e Corretora de Seguros S.A.",
       "lpa": 0.02,
       "vpa": 4.581,
-      "weekLow": 0.0,
+      "weekLow": 1.49,
       "weekHigh": 2.82,
       "pls": [
         8.3702,
@@ -2718,8 +2694,7 @@
         14.4697,
         9.1259,
         7.333,
-        14.9019,
-        7.9862
+        14.9019
       ],
       "pvpas": [
         0.4386,
@@ -2727,8 +2702,7 @@
         0.4743,
         0.3957,
         0.4049,
-        0.5376,
-        0.4539
+        0.5376
       ],
       "lastQuarter": "2026-03-31",
       "periods": [
@@ -2737,8 +2711,7 @@
         "Q3 24",
         "Q1 25",
         "Q2 25",
-        "Q3 25",
-        "Q1 26"
+        "Q3 25"
       ]
     },
     {
@@ -2746,13 +2719,13 @@
       "nome": "Raia Drogasil S.A.",
       "lpa": 0.78,
       "vpa": 4.198,
-      "weekLow": 0.0,
+      "weekLow": 12.81,
       "weekHigh": 27.42,
       "pls": [
         56.1836,
         52.9146,
         29.4987,
-        24.5398,
+        24.5399,
         45.3233,
         15.8793,
         16.0195,
@@ -2788,7 +2761,7 @@
       "nome": "Rumo S.A.",
       "lpa": 0.56,
       "vpa": 7.487,
-      "weekLow": 0.0,
+      "weekLow": 12.16,
       "weekHigh": 17.89,
       "pls": [
         26.4266,
@@ -2821,7 +2794,7 @@
       "nome": "Raízen S.A.",
       "lpa": -2.62,
       "vpa": -0.154,
-      "weekLow": 0.0,
+      "weekLow": 0.33,
       "weekHigh": 1.57,
       "pls": [
         7.2496,
@@ -2845,7 +2818,7 @@
       "nome": "Randoncorp S.A.",
       "lpa": -1.09,
       "vpa": 8.914,
-      "weekLow": 0.0,
+      "weekLow": 4.18,
       "weekHigh": 8.26,
       "pls": [
         12.4477,
@@ -2872,7 +2845,7 @@
       "nome": "Recrusul S/A",
       "lpa": -0.08,
       "vpa": -0.108,
-      "weekLow": 0.0,
+      "weekLow": 0.23,
       "weekHigh": 2.77,
       "pls": [],
       "pvpas": [],
@@ -2883,7 +2856,7 @@
       "nome": "Rede D'Or São Luiz S.A.",
       "lpa": 2.09,
       "vpa": 8.989,
-      "weekLow": 0.0,
+      "weekLow": 31.85,
       "weekHigh": 48.41,
       "pls": [
         15.5775,
@@ -2925,7 +2898,7 @@
       "nome": "Petroreconcavo S.A.",
       "lpa": 1.83,
       "vpa": 14.321,
-      "weekLow": 0.0,
+      "weekLow": 9.39,
       "weekHigh": 14.64,
       "pls": [
         5.4754
@@ -2940,7 +2913,7 @@
       "nome": "Localiza Rent a Car S.A.",
       "lpa": 2.07,
       "vpa": 24.024,
-      "weekLow": 0.0,
+      "weekLow": 32.7,
       "weekHigh": 53.35,
       "pls": [
         17.6388,
@@ -2976,7 +2949,7 @@
       "nome": "Banco Santander (Brasil) S.A.",
       "lpa": 2.046,
       "vpa": 33.762,
-      "weekLow": 0.0,
+      "weekLow": 25.47,
       "weekHigh": 37.83,
       "pls": [
         12.8788
@@ -2991,7 +2964,7 @@
       "nome": "Companhia de Saneamento do Paraná - SANEPAR",
       "lpa": 0.809,
       "vpa": 42.021,
-      "weekLow": 0.0,
+      "weekLow": 32.03,
       "weekHigh": 48.72,
       "pls": [
         46.2917
@@ -3006,7 +2979,7 @@
       "nome": "Bradsaúde S.A.",
       "lpa": 1.04,
       "vpa": 2.627,
-      "weekLow": 0.0,
+      "weekLow": 10.39,
       "weekHigh": 16.57,
       "pls": [
         9.3417,
@@ -3048,7 +3021,7 @@
       "nome": "Grupo SBF S.A.",
       "lpa": 1.44,
       "vpa": 14.297,
-      "weekLow": 0.0,
+      "weekLow": 9.45,
       "weekHigh": 16.0,
       "pls": [
         18.103,
@@ -3087,7 +3060,7 @@
       "nome": "Companhia de Saneamento Básico do Estado de São Paulo - SABESP",
       "lpa": 2.54,
       "vpa": 12.462,
-      "weekLow": 0.0,
+      "weekLow": 20.52,
       "weekHigh": 35.32,
       "pls": [
         3.1611,
@@ -3129,7 +3102,7 @@
       "nome": "SIMPAR S.A.",
       "lpa": -0.17,
       "vpa": 9.969,
-      "weekLow": 0.0,
+      "weekLow": 7.3,
       "weekHigh": 14.9,
       "pls": [
         45.1469,
@@ -3159,7 +3132,7 @@
       "nome": "SLC Agrícola S.A.",
       "lpa": 0.65,
       "vpa": 10.698,
-      "weekLow": 0.0,
+      "weekLow": 12.58,
       "weekHigh": 19.48,
       "pls": [
         7.6468,
@@ -3186,7 +3159,7 @@
       "nome": "Smartfit Escola de Ginástica e Dança S.A.",
       "lpa": 1.11,
       "vpa": 9.615,
-      "weekLow": 0.0,
+      "weekLow": 16.62,
       "weekHigh": 27.52,
       "pls": [
         37.8203,
@@ -3228,7 +3201,7 @@
       "nome": "São Martinho S.A.",
       "lpa": 2.53,
       "vpa": 22.815,
-      "weekLow": 0.0,
+      "weekLow": 12.91,
       "weekHigh": 21.7,
       "pls": [
         24.2656,
@@ -3261,7 +3234,7 @@
       "nome": "Suzano S.A.",
       "lpa": 9.19,
       "vpa": 38.861,
-      "weekLow": 0.0,
+      "weekLow": 39.17,
       "weekHigh": 59.65,
       "pls": [
         90.4789,
@@ -3291,7 +3264,7 @@
       "nome": "Transmissora Aliança de Energia Elétrica S.A.",
       "lpa": 1.06,
       "vpa": 23.104,
-      "weekLow": 0.0,
+      "weekLow": 32.84,
       "weekHigh": 46.11,
       "pls": [
         39.3267
@@ -3306,7 +3279,7 @@
       "nome": "Construtora Tenda S.A.",
       "lpa": 4.93,
       "vpa": 11.078,
-      "weekLow": 0.0,
+      "weekLow": 20.24,
       "weekHigh": 37.94,
       "pls": [
         4.7112,
@@ -3339,7 +3312,7 @@
       "nome": "TIM S.A.",
       "lpa": 1.79,
       "vpa": 10.223,
-      "weekLow": 0.0,
+      "weekLow": 19.56,
       "weekHigh": 28.74,
       "pls": [
         12.6983
@@ -3354,7 +3327,7 @@
       "nome": "TOTVS S.A.",
       "lpa": 1.47,
       "vpa": 8.561,
-      "weekLow": 0.0,
+      "weekLow": 26.8,
       "weekHigh": 48.4,
       "pls": [
         32.3698,
@@ -3396,7 +3369,7 @@
       "nome": "Três Tentos Agroindustrial S/A",
       "lpa": 1.4,
       "vpa": 9.549,
-      "weekLow": 0.0,
+      "weekLow": 13.04,
       "weekHigh": 17.9,
       "pls": [
         12.2943,
@@ -3429,8 +3402,8 @@
       "nome": "Ultrapar Participações S.A.",
       "lpa": 2.85,
       "vpa": 15.411,
-      "weekLow": 0.0,
-      "weekHigh": 31.03,
+      "weekLow": 15.58,
+      "weekHigh": 31.22,
       "pls": [
         16.3561,
         12.2748,
@@ -3471,7 +3444,7 @@
       "nome": "Usinas Siderúrgicas de Minas Gerais S.A.",
       "lpa": -2.13,
       "vpa": 16.684,
-      "weekLow": 0.0,
+      "weekLow": 3.9,
       "weekHigh": 12.18,
       "pls": [
         241.9066,
@@ -3504,7 +3477,7 @@
       "nome": "Vale S.A.",
       "lpa": 3.42,
       "vpa": 44.839,
-      "weekLow": 0.0,
+      "weekLow": 52.37,
       "weekHigh": 91.62,
       "pls": [
         3.854,
@@ -3525,35 +3498,20 @@
       "nome": "Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
       "lpa": 0.29,
       "vpa": 2.443,
-      "weekLow": 0.0,
+      "weekLow": 2.68,
       "weekHigh": 4.94,
       "pls": [
         11.4034,
-        13.4099,
-        3.2451,
-        10.3131,
-        11.3967,
-        2.5956,
-        11.4419
+        13.4099
       ],
       "pvpas": [
         1.7039,
-        1.5012,
-        2.0122,
-        1.8052,
-        1.6385,
-        1.344,
-        1.5224
+        1.5012
       ],
       "lastQuarter": "2026-03-31",
       "periods": [
         "Q1 24",
-        "Q2 24",
-        "Q4 24",
-        "Q1 25",
-        "Q2 25",
-        "Q4 25",
-        "Q1 26"
+        "Q2 24"
       ]
     },
     {
@@ -3561,7 +3519,7 @@
       "nome": "Vibra Energia S.A.",
       "lpa": 2.57,
       "vpa": 18.221,
-      "weekLow": 0.0,
+      "weekLow": 18.51,
       "weekHigh": 34.2,
       "pls": [
         6.9524,
@@ -3603,7 +3561,7 @@
       "nome": "Vivara Participações S.A.",
       "lpa": 2.49,
       "vpa": 12.891,
-      "weekLow": 0.0,
+      "weekLow": 20.04,
       "weekHigh": 36.65,
       "pls": [
         38.8627,
@@ -3645,7 +3603,7 @@
       "nome": "Telefônica Brasil S.A.",
       "lpa": 1.97,
       "vpa": 21.505,
-      "weekLow": 0.0,
+      "weekLow": 30.16,
       "weekHigh": 43.47,
       "pls": [
         17.6599
@@ -3660,7 +3618,7 @@
       "nome": "CM Hospitalar S/A",
       "lpa": 0.06,
       "vpa": 5.955,
-      "weekLow": 0.0,
+      "weekLow": 0.57,
       "weekHigh": 1.86,
       "pls": [
         156.9625,
@@ -3681,7 +3639,7 @@
       "nome": "WEG S.A.",
       "lpa": 1.5,
       "vpa": 4.151,
-      "weekLow": 0.0,
+      "weekLow": 35.25,
       "weekHigh": 54.53,
       "pls": [
         28.25,
@@ -3723,7 +3681,7 @@
       "nome": "Yduqs Participações S.A.",
       "lpa": 0.43,
       "vpa": 11.449,
-      "weekLow": 0.0,
+      "weekLow": 7.85,
       "weekHigh": 15.29,
       "pls": [
         7.9004,
