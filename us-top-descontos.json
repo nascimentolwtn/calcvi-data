@@ -1,17 +1,17 @@
 {
-  "atualizadoEm": "2026-07-10 01:22",
+  "atualizadoEm": "2026-08-07 22:20",
   "topBG": [
     {
-      "codigo": "VCIG",
-      "nome": "VCI Global Limited",
-      "lpa": 707.51,
-      "vpa": 7068.588
+      "codigo": "RUBI",
+      "nome": "Rubico Inc.",
+      "lpa": 1715.3,
+      "vpa": 1187.99
     },
     {
-      "codigo": "ONCO",
-      "nome": "Onconetix, Inc.",
-      "lpa": 1430.71,
-      "vpa": 42.635
+      "codigo": "YYAI",
+      "nome": "AiRWA Inc.",
+      "lpa": 241.2,
+      "vpa": 4.455
     },
     {
       "codigo": "NIVF",
@@ -20,28 +20,34 @@
       "vpa": 331.51
     },
     {
-      "codigo": "BNBX",
-      "nome": "BNB Plus Corp.",
-      "lpa": 401.1,
-      "vpa": 2.207
+      "codigo": "ONCO",
+      "nome": "Onconetix, Inc.",
+      "lpa": 1377.4,
+      "vpa": 42.635
     },
     {
-      "codigo": "CETX",
-      "nome": "Cemtrex Inc.",
-      "lpa": 544.22,
-      "vpa": 34.585
-    },
-    {
-      "codigo": "DCX",
-      "nome": "Digital Currency X Technology I",
-      "lpa": 408.03,
-      "vpa": 7.717
+      "codigo": "JTAI",
+      "nome": "Jet.AI Inc.",
+      "lpa": 429.75,
+      "vpa": 56.234
     },
     {
       "codigo": "PPCB",
       "nome": "Propanc Biopharma, Inc.",
-      "lpa": 547.31,
+      "lpa": 570.5,
       "vpa": 11.24
+    },
+    {
+      "codigo": "DCX",
+      "nome": "Digital Currency X Technology I",
+      "lpa": 362.74,
+      "vpa": 7.717
+    },
+    {
+      "codigo": "CETX",
+      "nome": "Cemtrex Inc.",
+      "lpa": 578.1,
+      "vpa": 34.585
     },
     {
       "codigo": "IVF",
@@ -50,36 +56,24 @@
       "vpa": 8.913
     },
     {
-      "codigo": "CHSN",
-      "nome": "Chanson International Holding",
-      "lpa": 2.99,
-      "vpa": 144.209
-    },
-    {
-      "codigo": "YHC",
-      "nome": "LQR House Inc.",
-      "lpa": 0.24,
-      "vpa": 1.33
+      "codigo": "RPGL",
+      "nome": "Republic Power Group Limited",
+      "lpa": 21.2,
+      "vpa": 305.82446
     }
   ],
   "topFL": [
     {
-      "codigo": "VCIG",
-      "nome": "VCI Global Limited",
-      "lpa": 707.51,
-      "vpa": 7068.588
-    },
-    {
       "codigo": "BRK.B",
       "nome": "Berkshire Hathaway Inc. New",
-      "lpa": 33.64,
+      "lpa": 33.58,
       "vpa": 505559.44
     },
     {
-      "codigo": "FDXF",
-      "nome": "FedEx Freight Holding Company, ",
-      "lpa": 4.56,
-      "vpa": 95720.0
+      "codigo": "RUBI",
+      "nome": "Rubico Inc.",
+      "lpa": 1715.3,
+      "vpa": 1187.99
     },
     {
       "codigo": "NIVF",
@@ -88,40 +82,46 @@
       "vpa": 331.51
     },
     {
+      "codigo": "RPGL",
+      "nome": "Republic Power Group Limited",
+      "lpa": 21.2,
+      "vpa": 305.82446
+    },
+    {
       "codigo": "CHSN",
       "nome": "Chanson International Holding",
-      "lpa": 2.99,
+      "lpa": 3.0,
       "vpa": 144.209
     },
     {
       "codigo": "EC",
       "nome": "Ecopetrol S.A.",
-      "lpa": 1.4,
+      "lpa": 1.49,
       "vpa": 1963.047
     },
     {
-      "codigo": "TLK",
-      "nome": "PT Telekomunikasi Indonesia, Tb",
-      "lpa": 0.91,
-      "vpa": 1384.397
-    },
-    {
-      "codigo": "YHC",
-      "nome": "LQR House Inc.",
-      "lpa": 0.24,
-      "vpa": 1.33
+      "codigo": "YYAI",
+      "nome": "AiRWA Inc.",
+      "lpa": 241.2,
+      "vpa": 4.455
     },
     {
       "codigo": "ONCO",
       "nome": "Onconetix, Inc.",
-      "lpa": 1430.71,
+      "lpa": 1377.4,
       "vpa": 42.635
     },
     {
-      "codigo": "CREG",
-      "nome": "Smart Powerr Corp.",
-      "lpa": 6.39,
-      "vpa": 64.336
+      "codigo": "JTAI",
+      "nome": "Jet.AI Inc.",
+      "lpa": 429.75,
+      "vpa": 56.234
+    },
+    {
+      "codigo": "NUWE",
+      "nome": "Nuwellis, Inc.",
+      "lpa": 47.25,
+      "vpa": 35.336
     }
   ]
 }
