@@ -1,127 +1,127 @@
 {
-  "atualizadoEm": "2026-08-07 22:20",
+  "atualizadoEm": "2026-09-30 00:18",
   "topBG": [
     {
-      "codigo": "RUBI",
-      "nome": "Rubico Inc.",
-      "lpa": 1715.3,
-      "vpa": 1187.99
+      "codigo": "HXHX",
+      "nome": "Haoxin Holdings Limited",
+      "lpa": 0.3,
+      "vpa": 2.009
     },
     {
-      "codigo": "YYAI",
-      "nome": "AiRWA Inc.",
-      "lpa": 241.2,
-      "vpa": 4.455
+      "codigo": "SUNE",
+      "nome": "SUNation Energy, Inc.",
+      "lpa": 2.13,
+      "vpa": 3.151
     },
     {
-      "codigo": "NIVF",
-      "nome": "NewGenIvf Group Limited",
-      "lpa": 109.44,
-      "vpa": 331.51
+      "codigo": "FUBO",
+      "nome": "fuboTV Inc.",
+      "lpa": 3.69,
+      "vpa": 27.585
     },
     {
-      "codigo": "ONCO",
-      "nome": "Onconetix, Inc.",
-      "lpa": 1377.4,
-      "vpa": 42.635
+      "codigo": "ADVB",
+      "nome": "Advanced Biomed Inc.",
+      "lpa": 3.75,
+      "vpa": 6.663
     },
     {
-      "codigo": "JTAI",
-      "nome": "Jet.AI Inc.",
-      "lpa": 429.75,
-      "vpa": 56.234
+      "codigo": "TOYO",
+      "nome": "TOYO Co., Ltd",
+      "lpa": 2.25,
+      "vpa": 4.911
     },
     {
-      "codigo": "PPCB",
-      "nome": "Propanc Biopharma, Inc.",
-      "lpa": 570.5,
-      "vpa": 11.24
+      "codigo": "BHF",
+      "nome": "Brighthouse Financial, Inc.",
+      "lpa": 12.61,
+      "vpa": 113.897
     },
     {
-      "codigo": "DCX",
-      "nome": "Digital Currency X Technology I",
-      "lpa": 362.74,
-      "vpa": 7.717
+      "codigo": "WB",
+      "nome": "Weibo Corporation",
+      "lpa": 1.2,
+      "vpa": 16.667
     },
     {
-      "codigo": "CETX",
-      "nome": "Cemtrex Inc.",
-      "lpa": 578.1,
-      "vpa": 34.585
+      "codigo": "CHTR",
+      "nome": "Charter Communications, Inc.",
+      "lpa": 38.18,
+      "vpa": 142.122
     },
     {
-      "codigo": "IVF",
-      "nome": "INVO Fertility, Inc.",
-      "lpa": 248.92,
-      "vpa": 8.913
+      "codigo": "DEC",
+      "nome": "Diversified Energy Company",
+      "lpa": 6.06,
+      "vpa": 13.317
     },
     {
-      "codigo": "RPGL",
-      "nome": "Republic Power Group Limited",
-      "lpa": 21.2,
-      "vpa": 305.82446
+      "codigo": "OPFI",
+      "nome": "OppFi Inc.",
+      "lpa": 3.01,
+      "vpa": 4.856
     }
   ],
   "topFL": [
     {
-      "codigo": "BRK.B",
-      "nome": "Berkshire Hathaway Inc. New",
-      "lpa": 33.58,
-      "vpa": 505559.44
+      "codigo": "HXHX",
+      "nome": "Haoxin Holdings Limited",
+      "lpa": 0.3,
+      "vpa": 2.009
     },
     {
-      "codigo": "RUBI",
-      "nome": "Rubico Inc.",
-      "lpa": 1715.3,
-      "vpa": 1187.99
+      "codigo": "HOS",
+      "nome": "Hornbeck Offshore Services, Inc",
+      "lpa": 0.42,
+      "vpa": 35.845
     },
     {
-      "codigo": "NIVF",
-      "nome": "NewGenIvf Group Limited",
-      "lpa": 109.44,
-      "vpa": 331.51
+      "codigo": "XIFR",
+      "nome": "XPLR Infrastructure, LP",
+      "lpa": 0.71,
+      "vpa": 33.936
     },
     {
-      "codigo": "RPGL",
-      "nome": "Republic Power Group Limited",
-      "lpa": 21.2,
-      "vpa": 305.82446
+      "codigo": "FUBO",
+      "nome": "fuboTV Inc.",
+      "lpa": 3.69,
+      "vpa": 27.585
     },
     {
-      "codigo": "CHSN",
-      "nome": "Chanson International Holding",
-      "lpa": 3.0,
-      "vpa": 144.209
+      "codigo": "PSEC",
+      "nome": "Prospect Capital Corporation",
+      "lpa": 0.06,
+      "vpa": 5.712
     },
     {
-      "codigo": "EC",
-      "nome": "Ecopetrol S.A.",
-      "lpa": 1.49,
-      "vpa": 1963.047
+      "codigo": "WB",
+      "nome": "Weibo Corporation",
+      "lpa": 1.2,
+      "vpa": 16.667
     },
     {
-      "codigo": "YYAI",
-      "nome": "AiRWA Inc.",
-      "lpa": 241.2,
-      "vpa": 4.455
+      "codigo": "AMPY",
+      "nome": "Amplify Energy Corp.",
+      "lpa": 0.51,
+      "vpa": 10.634
     },
     {
-      "codigo": "ONCO",
-      "nome": "Onconetix, Inc.",
-      "lpa": 1377.4,
-      "vpa": 42.635
+      "codigo": "GNW",
+      "nome": "Genworth Financial Inc",
+      "lpa": 0.51,
+      "vpa": 23.144
     },
     {
-      "codigo": "JTAI",
-      "nome": "Jet.AI Inc.",
-      "lpa": 429.75,
-      "vpa": 56.234
+      "codigo": "FMFC",
+      "nome": "Kandal M Venture Limited",
+      "lpa": 0.01,
+      "vpa": 0.44
     },
     {
-      "codigo": "NUWE",
-      "nome": "Nuwellis, Inc.",
-      "lpa": 47.25,
-      "vpa": 35.336
+      "codigo": "BHF",
+      "nome": "Brighthouse Financial, Inc.",
+      "lpa": 12.61,
+      "vpa": 113.897
     }
   ]
 }

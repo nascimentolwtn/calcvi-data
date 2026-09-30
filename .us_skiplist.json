@@ -1,0 +1,402 @@
+{
+"ADX": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"AFB": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"AGD": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"AOD": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"AVK": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"BBN": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"BGH": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"BKT": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"BOE": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"BTT": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"BTZ": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"BWG": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"CFND": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"CHW": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"DMB": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"DSM": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"EDD": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"EDF": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"EFT": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"EMD": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"ETY": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"EVF": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"EVN": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"EXG": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"FOF": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"FRA": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"FSSL": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"GBAB": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"GDO": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"GDV": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"GOF": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"HIO": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"HIX": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"HPI": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"IFN": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"IGA": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"IHD": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"IIM": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"IQI": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"JGH": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"JOF": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"JRS": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"KIO": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"KTF": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"LDP": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"MFM": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"MGF": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"MHD": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"MHF": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"MIN": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"MMD": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"MMT": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"MMU": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"MSIF": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"MUA": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"MUJ": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NAC": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NAN": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NBB": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NBXG": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NCA": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NCV": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NDMO": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NMAI": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NMCO": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NPFD": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NUW": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"NVG": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"OIA": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PAXS": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PCM": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PCQ": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PDI": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PDO": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PDT": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PGP": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PML": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PMM": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PMO": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PNI": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"PPT": {
+"date": "2026-09-29",
+"reason": "ineligible-type"
+},
+"RCS": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"RFI": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"RFMZ": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"RIV": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"RZAI": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"SCD": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"SDHY": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"STEW": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"SVA": {
+"date": "2026-09-30",
+"reason": "notfound"
+},
+"SWZ": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"TDF": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"THRMV": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"TSI": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"UTF": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"VBF": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"VKQ": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"VMO": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"WDI": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+},
+"WIW": {
+"date": "2026-09-30",
+"reason": "ineligible-type"
+}
+}

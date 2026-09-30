@@ -1,127 +1,127 @@
 {
-  "atualizadoEm": "2026-08-06 21:26",
+  "atualizadoEm": "2026-09-29 23:06",
   "topBG": [
     {
       "codigo": "LIGT3",
       "nome": "Light S.A.",
-      "lpa": 1.9,
-      "vpa": 22.341
-    },
-    {
-      "codigo": "AMER3",
-      "nome": "Americanas S.A.",
-      "lpa": 2.63,
-      "vpa": 22.123
+      "lpa": 1.5,
+      "vpa": 25.104
     },
     {
       "codigo": "ALLD3",
       "nome": "Allied Tecnologia S.A.",
-      "lpa": 3.49,
-      "vpa": 16.043
+      "lpa": 3.7,
+      "vpa": 16.404
     },
     {
-      "codigo": "BSLI3",
-      "nome": "BRB - Banco de Brasília S.A.",
-      "lpa": 2.02,
-      "vpa": 8.196
+      "codigo": "VVEO3",
+      "nome": "CM Hospitalar S/A",
+      "lpa": 0.18,
+      "vpa": 5.771
     },
     {
-      "codigo": "BSLI4",
-      "nome": "BRB - Banco de Brasília S.A.",
-      "lpa": 2.02,
-      "vpa": 8.196
+      "codigo": "AZTE3",
+      "nome": "Azevedo & Travassos Energia S.A.",
+      "lpa": 0.31,
+      "vpa": 7.146
+    },
+    {
+      "codigo": "AMER3",
+      "nome": "Americanas S.A.",
+      "lpa": 1.54,
+      "vpa": 20.75
     },
     {
       "codigo": "VTRU3",
       "nome": "Vitru Educação S.A.",
-      "lpa": 7.7,
+      "lpa": 7.3,
       "vpa": 27.852
     },
     {
-      "codigo": "HBRE3",
-      "nome": "HBR Realty Empreendimentos Imobiliários S.A.",
-      "lpa": 0.29,
-      "vpa": 17.578
+      "codigo": "AZZA3",
+      "nome": "Azzas 2154 S.A.",
+      "lpa": 4.99,
+      "vpa": 39.769
     },
     {
-      "codigo": "MNPR3",
-      "nome": "Minupar Participações S.A.",
-      "lpa": 5.82,
-      "vpa": 2.831
+      "codigo": "RIAA3",
+      "nome": "Guararapes Confecções S.A.",
+      "lpa": 3.06,
+      "vpa": 10.762
     },
     {
-      "codigo": "VVEO3",
-      "nome": "CM Hospitalar S/A",
-      "lpa": 0.06,
-      "vpa": 5.955
+      "codigo": "MTRE3",
+      "nome": "Mitre Realty Empreendimentos e Participações S.A.",
+      "lpa": 0.62,
+      "vpa": 9.692
     },
     {
-      "codigo": "IGTI3",
-      "nome": "Iguatemi S.A.",
-      "lpa": 0.58,
-      "vpa": 16.687
+      "codigo": "COGN3",
+      "nome": "Cogna Educação S.A.",
+      "lpa": 0.36,
+      "vpa": 6.862
     }
   ],
   "topFL": [
     {
-      "codigo": "GFSA3",
-      "nome": "Gafisa S.A.",
-      "lpa": -74.47,
-      "vpa": 62.544
-    },
-    {
       "codigo": "VVEO3",
       "nome": "CM Hospitalar S/A",
-      "lpa": 0.06,
-      "vpa": 5.955
-    },
-    {
-      "codigo": "HAPV3",
-      "nome": "Hapvida Participações e Investimentos S.A.",
-      "lpa": -0.87,
-      "vpa": 101.36
-    },
-    {
-      "codigo": "HBRE3",
-      "nome": "HBR Realty Empreendimentos Imobiliários S.A.",
-      "lpa": 0.29,
-      "vpa": 17.578
+      "lpa": 0.18,
+      "vpa": 5.771
     },
     {
       "codigo": "LIGT3",
       "nome": "Light S.A.",
-      "lpa": 1.9,
-      "vpa": 22.341
+      "lpa": 1.5,
+      "vpa": 25.104
     },
     {
-      "codigo": "TOKY3",
-      "nome": "GRUPO TOKY  ON      NM",
-      "lpa": -2.84,
-      "vpa": 1.782
+      "codigo": "AZTE3",
+      "nome": "Azevedo & Travassos Energia S.A.",
+      "lpa": 0.31,
+      "vpa": 7.146
     },
     {
-      "codigo": "WEST3",
-      "nome": "Westwing Comércio Varejista S.A.",
-      "lpa": -0.19,
-      "vpa": 19.758
+      "codigo": "AMER3",
+      "nome": "Americanas S.A.",
+      "lpa": 1.54,
+      "vpa": 20.75
     },
     {
-      "codigo": "SAPR4",
-      "nome": "Companhia de Saneamento do Paraná - SANEPAR",
-      "lpa": 0.76,
-      "vpa": 42.021
+      "codigo": "ALLD3",
+      "nome": "Allied Tecnologia S.A.",
+      "lpa": 3.7,
+      "vpa": 16.404
     },
     {
-      "codigo": "HBOR3",
-      "nome": "Helbor Empreendimentos S.A.",
-      "lpa": 0.04,
-      "vpa": 10.91
+      "codigo": "POSI3",
+      "nome": "Positivo Tecnologia S.A.",
+      "lpa": 0.09,
+      "vpa": 11.272
     },
     {
-      "codigo": "SAPR3",
-      "nome": "Companhia de Saneamento do Paraná - SANEPAR",
-      "lpa": 0.76,
-      "vpa": 42.021
+      "codigo": "COGN3",
+      "nome": "Cogna Educação S.A.",
+      "lpa": 0.36,
+      "vpa": 6.862
+    },
+    {
+      "codigo": "QUAL3",
+      "nome": "Qualicorp Consultoria e Corretora de Seguros S.A.",
+      "lpa": 0.07,
+      "vpa": 4.731
+    },
+    {
+      "codigo": "MYPK3",
+      "nome": "Iochpe-Maxion S.A.",
+      "lpa": 0.61,
+      "vpa": 27.347
+    },
+    {
+      "codigo": "MTRE3",
+      "nome": "Mitre Realty Empreendimentos e Participações S.A.",
+      "lpa": 0.62,
+      "vpa": 9.692
     }
   ]
 }

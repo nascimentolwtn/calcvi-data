@@ -1,1 +1,6 @@
-.us_stocks_progress.json
+.us_stocks*_progress.json
+.br_stocks_progress.json
+.publish-*.done
+*.partial.json
+*.tmp
+.us_meta_cache.json
